@@ -38,7 +38,6 @@ small, sharp tools for thinking better, remembering better, paying attention bet
 - **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: instant, typo-tolerant search for YouTube's "save to playlist" dialog. fixes a papercut that drove me up the wall.
 - **[chrome-text-summarizer](https://github.com/codyhxyz/chrome-text-summarizer)**: attention is all you need (to save).
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: the scaffolding i wish i'd had. ship a Chrome extension in a weekend.
-- **[yt-playlist-manager](https://github.com/codyhxyz/yt-playlist-manager)**: wrangle your YouTube playlists at scale, the way their own UI won't let you.
 
 ### 🛠 extending claude code
 
