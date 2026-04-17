@@ -54,7 +54,6 @@ worlds you can poke at. simulation as a way to feel ideas in your hands, about e
 
 - **[lil-humans](https://github.com/codyhxyz/lil-humans)**: your little guys. watch 'em grow. sabotage them. it's your universe.
 - **[life-sim-go](https://github.com/codyhxyz/life-sim-go)**: life simulation, in Go.
-- **[sonatic](https://github.com/codyhxyz/sonatic)**: [TODO: one-liner]
 
 ### 🔊 qualia design & empathy tech
 
