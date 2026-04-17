@@ -38,18 +38,44 @@ small, sharp tools for thinking better, remembering better, paying attention bet
 - **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: instant, typo-tolerant search for YouTube's "save to playlist" dialog. fixes a papercut that drove me up the wall.
 - **[chrome-text-summarizer](https://github.com/codyhxyz/chrome-text-summarizer)**: attention is all you need (to save).
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: the scaffolding i wish i'd had. ship a Chrome extension in a weekend.
+- **[yt-playlist-manager](https://github.com/codyhxyz/yt-playlist-manager)**: wrangle your YouTube playlists at scale, the way their own UI won't let you.
+
+### 🛠 extending claude code
+
+building the tools i use to build everything else. agentic scaffolding for thinking alongside LLMs.
+
+- **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: end-to-end scaffold for building a Claude Code plugin, from first command to marketplace submission.
+- **[experimental-engineer](https://github.com/codyhxyz/experimental-engineer)**: a subagent that explores unconventional, first-principles solutions to hard technical problems.
+- **[first-principles-review](https://github.com/codyhxyz/first-principles-review)**: a skill that reviews a codebase top-down. WHY (goal) → WHAT (architecture) → HOW (implementation) → improvements ranked by leverage.
 
 ### 🎮 sandboxes for the mind
 
 worlds you can poke at. simulation as a way to feel ideas in your hands, about exponentials, about ecosystems, about the kind of universe this one might be.
 
 - **[lil-humans](https://github.com/codyhxyz/lil-humans)**: your little guys. watch 'em grow. sabotage them. it's your universe.
+- **[life-sim-go](https://github.com/codyhxyz/life-sim-go)**: life simulation, in Go.
+- **[probabalistic-playlists](https://github.com/codyhxyz/probabalistic-playlists)**: TreeHacks 2022. playlists that understand themselves probabilistically.
+- **[sonatic](https://github.com/codyhxyz/sonatic)**: [TODO: one-liner]
 
 ### 🔊 qualia design & empathy tech
 
 *consciousness DJing*. my belief: most of the world isn't designed for the nervous system that has to live in it, and that's fixable.
 
 - **[sphere-viz](https://github.com/codyhxyz/sphere-viz)**: a spherical music visualizer with FFT. sound, made spatial.
+- **[fft2](https://github.com/codyhxyz/fft2)**: fft experiments. sound, made visible.
+- **[Qigong-Energy-Calculator](https://github.com/codyhxyz/Qigong-Energy-Calculator)**: a calculator for qigong energy practice. embodiment as numerics.
+
+### 🌀 orbiting
+
+forks i keep around. signal of ecosystems i live in, even when i'm not the author.
+
+- **[codybrain](https://github.com/codyhxyz/codybrain)**: quartz fork for my public second brain + digital garden.
+- **[hydra](https://github.com/codyhxyz/hydra)**: livecoding networked visuals in the browser.
+- **[beets](https://github.com/codyhxyz/beets)**: music library manager and MusicBrainz tagger.
+- **[FluidAudio](https://github.com/codyhxyz/FluidAudio)**: frontier CoreML audio models (TTS, STT, VAD, diarization) for Swift apps.
+- **[The-Powder-Toy](https://github.com/codyhxyz/The-Powder-Toy)**: the classic falling-sand physics sandbox.
+- **[tweetscope](https://github.com/codyhxyz/tweetscope)**: explore your twitter archive with embeddings and hierarchical clustering.
+- **[spotipy](https://github.com/codyhxyz/spotipy)**: lightweight Python library for the Spotify Web API.
 
 ---
 
