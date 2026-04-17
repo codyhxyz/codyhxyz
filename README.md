@@ -54,7 +54,6 @@ worlds you can poke at. simulation as a way to feel ideas in your hands, about e
 
 - **[lil-humans](https://github.com/codyhxyz/lil-humans)**: your little guys. watch 'em grow. sabotage them. it's your universe.
 - **[life-sim-go](https://github.com/codyhxyz/life-sim-go)**: life simulation, in Go.
-- **[probabalistic-playlists](https://github.com/codyhxyz/probabalistic-playlists)**: TreeHacks 2022. playlists that understand themselves probabilistically.
 - **[sonatic](https://github.com/codyhxyz/sonatic)**: [TODO: one-liner]
 
 ### 🔊 qualia design & empathy tech
@@ -63,19 +62,7 @@ worlds you can poke at. simulation as a way to feel ideas in your hands, about e
 
 - **[sphere-viz](https://github.com/codyhxyz/sphere-viz)**: a spherical music visualizer with FFT. sound, made spatial.
 - **[fft2](https://github.com/codyhxyz/fft2)**: fft experiments. sound, made visible.
-- **[Qigong-Energy-Calculator](https://github.com/codyhxyz/Qigong-Energy-Calculator)**: a calculator for qigong energy practice. embodiment as numerics.
-
-### 🌀 orbiting
-
-forks i keep around. signal of ecosystems i live in, even when i'm not the author.
-
-- **[codybrain](https://github.com/codyhxyz/codybrain)**: quartz fork for my public second brain + digital garden.
-- **[hydra](https://github.com/codyhxyz/hydra)**: livecoding networked visuals in the browser.
-- **[beets](https://github.com/codyhxyz/beets)**: music library manager and MusicBrainz tagger.
-- **[FluidAudio](https://github.com/codyhxyz/FluidAudio)**: frontier CoreML audio models (TTS, STT, VAD, diarization) for Swift apps.
-- **[The-Powder-Toy](https://github.com/codyhxyz/The-Powder-Toy)**: the classic falling-sand physics sandbox.
-- **[tweetscope](https://github.com/codyhxyz/tweetscope)**: explore your twitter archive with embeddings and hierarchical clustering.
-- **[spotipy](https://github.com/codyhxyz/spotipy)**: lightweight Python library for the Spotify Web API.
+- **[probabalistic-playlists](https://github.com/codyhxyz/probabalistic-playlists)**: TreeHacks 2022. playlists that understand themselves probabilistically.
 
 ---
 
