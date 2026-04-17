@@ -43,18 +43,13 @@ small, sharp tools for thinking better, remembering better, paying attention bet
 
 worlds you can poke at. simulation as a way to feel ideas in your hands, about exponentials, about ecosystems, about the kind of universe this one might be.
 
-- **[ai-singularity-idle](https://github.com/codyhxyz/ai-singularity-idle)**: feel the exponential, viscerally.
 - **[lil-humans](https://github.com/codyhxyz/lil-humans)**: your little guys. watch 'em grow. sabotage them. it's your universe.
-- **[open-powder-toy](https://github.com/codyhxyz/open-powder-toy)**: a love letter to falling-sand physics in the browser.
-- **[open-travian](https://github.com/codyhxyz/open-travian)**: an open-source clone of the browser game that ate my childhood.
-- **[noita-mesa-metal](https://github.com/codyhxyz/noita-mesa-metal)**: Mesa patches so Noita runs on macOS via Metal. a game this good deserves to be playable.
 
 ### 🔊 qualia design & empathy tech
 
 *consciousness DJing*. my belief: most of the world isn't designed for the nervous system that has to live in it, and that's fixable.
 
 - **[sphere-viz](https://github.com/codyhxyz/sphere-viz)**: a spherical music visualizer with FFT. sound, made spatial.
-- **[FluidAudio](https://github.com/codyhxyz/FluidAudio)** (fork): on-device CoreML audio models. the infrastructure empathy tech will ride on.
 
 ---
 
