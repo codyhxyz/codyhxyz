@@ -51,16 +51,7 @@ building the tools i use to build everything else. agentic scaffolding for think
 
 worlds you can poke at. simulation as a way to feel ideas in your hands, about exponentials, about ecosystems, about the kind of universe this one might be.
 
-- **[lil-humans](https://github.com/codyhxyz/lil-humans)**: your little guys. watch 'em grow. sabotage them. it's your universe.
 - **[life-sim-go](https://github.com/codyhxyz/life-sim-go)**: life simulation, in Go.
-
-### 🔊 qualia design & empathy tech
-
-*consciousness DJing*. my belief: most of the world isn't designed for the nervous system that has to live in it, and that's fixable.
-
-- **[sphere-viz](https://github.com/codyhxyz/sphere-viz)**: a spherical music visualizer with FFT. sound, made spatial.
-- **[fft2](https://github.com/codyhxyz/fft2)**: fft experiments. sound, made visible.
-- **[probabalistic-playlists](https://github.com/codyhxyz/probabalistic-playlists)**: TreeHacks 2022. playlists that understand themselves probabilistically.
 
 ---
 
