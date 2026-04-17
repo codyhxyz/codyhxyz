@@ -30,9 +30,6 @@ this profile is one of several attempts at making myself legible to the world.
 
 turning my inner life (healing, worldview, thinking) into something other people can read, fork, and build on. the best version of a personal brand is a public wiki of what i've figured out.
 
-- **[codybrain](https://github.com/codyhxyz/codybrain)**: a public second brain + digital garden. the "open-sourcing yourself" project, manifest.
-- **[tweetscope](https://github.com/codyhxyz/tweetscope)**: explore your own twitter archive with embeddings and hierarchical clustering. (you've already said more about yourself than you realize.)
-
 ### 🧠 cognitive augmentation
 
 small, sharp tools for thinking better, remembering better, paying attention better. built because nobody else was going to build them the way i needed.
@@ -40,7 +37,7 @@ small, sharp tools for thinking better, remembering better, paying attention bet
 - **[annotator-extension](https://github.com/codyhxyz/annotator-extension)**: highlight, draw, and annotate any webpage like it's a PDF. my favorite ADHD tool. it remembers *why* you opened the tab.
 - **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: instant, typo-tolerant search for YouTube's "save to playlist" dialog. fixes a papercut that drove me up the wall.
 - **[chrome-text-summarizer](https://github.com/codyhxyz/chrome-text-summarizer)**: attention is all you need (to save).
-- **[chrome-extension-factory](https://github.com/codyhxyz/chrome-extension-factory)**: the scaffolding i wish i'd had. ship a Chrome extension in a weekend.
+- **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: the scaffolding i wish i'd had. ship a Chrome extension in a weekend.
 
 ### 🎮 sandboxes for the mind
 
