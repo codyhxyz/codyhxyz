@@ -15,12 +15,9 @@ this profile is one of several attempts at making myself legible to the world.
 
 ## i am (trying to be) a...
 
-- **🍋 zest-dealer**: mission-directed aliveness, fervor, *ikigai*. the opposite of numbing out. the flavor i try to add to every room i walk into.
-- **🌊 multiverse surfer**: every small action forks the universe. i try to notice the forks, pick the good ones, and remember i have the agency to do it again tomorrow.
-- **☯︎ incentive-aligner**: cells cooperate because the incentives line up. most of what's broken in the world is broken incentives pretending to be broken people. i want to build the coordination technology that fixes the layer below the layer.
-- **🧪 first-principles thinker**: what is this, actually? what if we didn't assume the thing everyone assumes? the questions are free; the answers compound.
-- **🔓 open-sourced human**: my software, my principles, my healing journey. the ecosystem builds itself when the pieces are legible and free.
 - **🔥 aliveness-maxxer**: numbness is the true opposite of life. every day i'm asking, *am i heading toward aliveness, or running from it?*
+- **☯︎ incentive-aligner**: cells cooperate because the incentives line up. most of what's broken in the world is broken incentives pretending to be broken people. i want to build the coordination technology that fixes the layer below the layer.
+- **🔓 open-sourced human**: my software, my principles, my healing journey. the ecosystem builds itself when the pieces are legible and free.
 
 ---
 
