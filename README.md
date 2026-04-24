@@ -62,11 +62,6 @@ building the tools i use to build everything else. agentic scaffolding for think
 - **🔌 claude plugins as cognitive heuristics**: plugins are really just abstractions for cognitive heuristics. for the first time, i'm being invited to directly open-source the way i think... 🧐
 - **🧠 creating cognitive augmentation tools**: [jump to projects ↓](#-cognitive-augmentation)
 - **🌱 open-sourcing myself**: in the process of making myself legible to the world.
-- **metamorphopolis**: the vision of a village with my friends. a thriving society, starting at the scale where it's actually tractable.
-- **coordination technology**: if IFS is a technology for internal democracy, what's the external analogue? what does the human civilizational organism *look like*?
-- **anti-sitting furniture & walkable cities**: spines compressed all day is a slow-motion civilizational injury. design your environment or it designs you.
-- **abundance engineering**: games under extractive capitalism are negative-sum. games under post-scarcity are positive-sum. i care about creating the scaffolding that gets us from the first one to the second one as painlessly as possible.
-- **empathy tech**: one day everyone will understand, first intellectually then experientially, what MDMA-assisted safety and 5-MeO dissolution have to teach us.
 
 ---
 
