@@ -57,6 +57,7 @@
 
 - **bespoke software eats app stores**
 - **you can just do things**
+- **open-sourcing yourself is digital self-actualization**
 
 ---
 
