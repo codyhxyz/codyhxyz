@@ -7,9 +7,9 @@
 
 *some call me a [lemonaut](https://twitter.com/lemonautzest).*
 
-- **🔥 aliveness-maxxer**: aliveness >>> numbness.
+- **🔥 aliveness-maxxer**: aliveness >>> numbness
 - **☯︎ incentive-aligner**: *"show me the incentive, and I'll show you the outcome"* — Charlie Munger
-- **🌐 open-sourced human**: information wants to be free.
+- **🌐 open-sourced human**: information wants to be free
 
 ---
 
@@ -18,7 +18,7 @@
 ### 🧠 cognitive augmentation
 
 - **[web-annotator](https://github.com/codyhxyz/web-annotator)**: I believe annotation is a missing primitive for the web. Leave notes to yourself; take notes on the web.
-- **[YouTube Playlist Search](https://github.com/codyhxyz/playlist-search-extension)**: Adds a much-needed search bar for saving YouTube playlists. Visit [playlist.codyh.xyz](playlist.codyh.xyz) for an easy save-to-playlist experience on mobile.
+- **[YouTube Playlist Search](https://github.com/codyhxyz/playlist-search-extension)**: Adds a much-needed filter bar for saving to YouTube playlists. Visit [playlist.codyh.xyz](playlist.codyh.xyz) for an easy save-to-playlist experience on mobile.
 - **[Webpage Summarizer](https://github.com/codyhxyz/webpage-summarizer)**: Right-click > Summarize Text for any Chromium browser.
 - **[spotify-notes](https://github.com/codyhxyz/spotify-notes)**: the missing tool for taking notes on the music you listen to.
 
