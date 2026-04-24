@@ -9,7 +9,7 @@
 
 - **🔥 aliveness-maxxer**
 - **☯︎ incentive-aligner**
-- **🔓 open-sourced human**
+- **🌐 open-sourced human**
 
 ---
 
