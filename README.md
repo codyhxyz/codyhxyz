@@ -33,7 +33,7 @@ turning my inner life (healing, worldview, thinking) into something other people
 ### 🧠 cognitive augmentation
 
 - **[annotator-extension](https://github.com/codyhxyz/annotator-extension)**: I believe annotation is a missing primitive for the web. Leave notes to yourself; take notes on the web.
-- **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: Adds a much-needed search bar for saving playlists. Visit [playlist.codyh.xyz](playlist.codyh.xyz) on mobile.
+- **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: Adds a much-needed search bar for saving YouTube playlists. Visit [playlist.codyh.xyz](playlist.codyh.xyz) for an easy save-to-playlist experience on mobile.
 - **[chrome-text-summarizer](https://github.com/codyhxyz/chrome-text-summarizer)**: Right-click > Summarize Text for any Chromium browser.
 - **[spotify-notes](https://github.com/codyhxyz/spotify-notes)**: the missing tool for taking notes on the music you listen to.
 
