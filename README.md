@@ -35,6 +35,7 @@ turning my inner life (healing, worldview, thinking) into something other people
 - **[annotator-extension](https://github.com/codyhxyz/annotator-extension)**: highlight, draw, and annotate any webpage like it's a PDF. my favorite ADHD tool. it remembers *why* you opened the tab.
 - **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: search for YouTube's "Save to Playlist" dialog on the web. Visit [playlist.codyh.xyz](playlist.codyh.xyz) on mobile.
 - **[chrome-text-summarizer](https://github.com/codyhxyz/chrome-text-summarizer)**: Right-click > Summarize Text for any Chromium browser.
+- **[spotify-notes](https://github.com/codyhxyz/spotify-notes)**: timestamped notes on whatever you're listening to. turns passive listening into a thinking surface.
 
 
 ### 🛠️ tools for creators
@@ -46,8 +47,7 @@ turning my inner life (healing, worldview, thinking) into something other people
 
 building the tools i use to build everything else. agentic scaffolding for thinking alongside LLMs.
 
-- **[experimental-engineer](https://github.com/codyhxyz/experimental-engineer)**: a subagent that explores unconventional, first-principles solutions to hard technical problems.
-- **[first-principles-review](https://github.com/codyhxyz/first-principles-review)**: a skill that reviews a codebase top-down. WHY (goal) → WHAT (architecture) → HOW (implementation) → improvements ranked by leverage.
+- **[codyhxyz-plugins](https://github.com/codyhxyz/codyhxyz-plugins)**: my full marketplace of Claude Code plugins — subagents, skills, statuslines, hooks. the ways i talk to my computer.
 
 
 ---
