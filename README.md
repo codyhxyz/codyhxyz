@@ -28,7 +28,7 @@
 - **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: end-to-end scaffold for building & publishing Claude Code plugins.
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: end-to-end scaffold for building & publishing Chrome extensions.
 
-### 💬 my claude code stack
+### ⚙️ my claude code stack
 
 - **[codyhxyz-plugins](https://github.com/codyhxyz/codyhxyz-plugins)**: these are the ways i talk to my computer.
 
@@ -47,9 +47,9 @@
 
 ## currently obsessing over
 
-- **🔌 claude plugins as cognitive heuristics**: plugins are really just abstractions for cognitive heuristics. for the first time, i'm being invited to directly open-source the way i think... 🧐
-- **🧠 creating cognitive augmentation tools**: [jump to projects ↓](#-cognitive-augmentation)
-- **🌱 open-sourcing myself**: in the process of making myself legible to the world.
+- **🔌 claude plugins**: plugins are really just abstractions for cognitive heuristics. for the first time, i'm being invited to directly open-source the way i think... 🧐
+- **🧠 augmenting my cognition**: [jump to projects ↓](#-cognitive-augmentation)
+- **🌱 open-sourcing myself**: currently in the process of making myself legible to the world.
 
 ---
 
