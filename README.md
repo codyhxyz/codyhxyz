@@ -7,9 +7,9 @@
 
 *some call me a lemonaut.*
 
-- **🔥 aliveness-maxxer**
-- **☯︎ incentive-aligner**
-- **🌐 open-sourced human**
+- **🔥 aliveness-maxxer**: aliveness >>> numbness.
+- **☯︎ incentive-aligner**: *"show me the incentive, and I'll show you the outcome"* — Charlie Munger
+- **🌐 open-sourced human**: information wants to be free.
 
 ---
 
@@ -58,6 +58,7 @@ building the tools i use to build everything else. agentic scaffolding for think
 ## bets i'm making
 
 - **bespoke software eats app stores**
+- **you can just do things**
 
 ---
 
