@@ -55,8 +55,8 @@
 
 ## bets i'm making
 
-- **bespoke software eats app stores**
-- **you can just do things**
+- **bespoke software eats app stores**: [[1]](https://x.com/karpathy/status/2024583544157458452)
+- **you can just do things**: [[1]](https://highagency.com)
 - **open-sourcing yourself is digital self-actualization**
 
 ---
