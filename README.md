@@ -41,7 +41,7 @@ turning my inner life (healing, worldview, thinking) into something other people
 ### 🛠️ tools for creators
 
 - **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: end-to-end scaffold for building & publishing Claude Code plugins.
-- **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: the scaffolding i wish i'd had. ship a Chrome extension in a weekend.
+- **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: end-to-end scaffold for building & publishing Chrome extensions.
 
 ### 🛠 extending claude code
 
