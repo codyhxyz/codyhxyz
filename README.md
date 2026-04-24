@@ -32,10 +32,10 @@ turning my inner life (healing, worldview, thinking) into something other people
 
 ### 🧠 cognitive augmentation
 
-- **[annotator-extension](https://github.com/codyhxyz/annotator-extension)**: highlight, draw, and annotate any webpage like it's a PDF. my favorite ADHD tool. it remembers *why* you opened the tab.
-- **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: search for YouTube's "Save to Playlist" dialog on the web. Visit [playlist.codyh.xyz](playlist.codyh.xyz) on mobile.
+- **[annotator-extension](https://github.com/codyhxyz/annotator-extension)**: I believe annotation is a missing primitive for the web. Leave notes to yourself; take notes on the web.
+- **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: Adds a much-needed search bar for saving playlists. Visit [playlist.codyh.xyz](playlist.codyh.xyz) on mobile.
 - **[chrome-text-summarizer](https://github.com/codyhxyz/chrome-text-summarizer)**: Right-click > Summarize Text for any Chromium browser.
-- **[spotify-notes](https://github.com/codyhxyz/spotify-notes)**: timestamped notes on whatever you're listening to. turns passive listening into a thinking surface.
+- **[spotify-notes](https://github.com/codyhxyz/spotify-notes)**: the missing tool for taking notes on the music you listen to.
 
 
 ### 🛠️ tools for creators
