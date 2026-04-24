@@ -7,7 +7,7 @@
 
 *some call me a lemonaut.*
 
-i'm on a mission to transmute hellishly painful lived experiences into heavenly blissful ones, and to manufacture & distribute the "get-out-of-hell-free cards" those experiences taught me how to make. i open-source my healing, my thinking, and my software, because if something as simple as cells can coordinate to form a body, i have no doubt we can coordinate to form the kind of society humans actually need.
+i open-source my growth journey, my thinking, and my software, because if something as simple as cells can coordinate to form a body, i have no doubt we can coordinate to form the kind of society humans actually need.
 
 this profile is one of several attempts at making myself legible to the world.
 
@@ -32,26 +32,23 @@ turning my inner life (healing, worldview, thinking) into something other people
 
 ### 🧠 cognitive augmentation
 
-small, sharp tools for thinking better, remembering better, paying attention better. built because nobody else was going to build them the way i needed.
-
 - **[annotator-extension](https://github.com/codyhxyz/annotator-extension)**: highlight, draw, and annotate any webpage like it's a PDF. my favorite ADHD tool. it remembers *why* you opened the tab.
-- **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: instant, typo-tolerant search for YouTube's "save to playlist" dialog. fixes a papercut that drove me up the wall.
-- **[chrome-text-summarizer](https://github.com/codyhxyz/chrome-text-summarizer)**: attention is all you need (to save).
+- **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: search for YouTube's "Save to Playlist" dialog on the web. Visit [playlist.codyh.xyz](playlist.codyh.xyz) on mobile.
+- **[chrome-text-summarizer](https://github.com/codyhxyz/chrome-text-summarizer)**: Right-click > Summarize Text for any Chromium browser.
+
+
+### 🛠️ tools for creators
+
+- **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: end-to-end scaffold for building a Claude Code plugin, from first command to marketplace submission.
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: the scaffolding i wish i'd had. ship a Chrome extension in a weekend.
 
 ### 🛠 extending claude code
 
 building the tools i use to build everything else. agentic scaffolding for thinking alongside LLMs.
 
-- **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: end-to-end scaffold for building a Claude Code plugin, from first command to marketplace submission.
 - **[experimental-engineer](https://github.com/codyhxyz/experimental-engineer)**: a subagent that explores unconventional, first-principles solutions to hard technical problems.
 - **[first-principles-review](https://github.com/codyhxyz/first-principles-review)**: a skill that reviews a codebase top-down. WHY (goal) → WHAT (architecture) → HOW (implementation) → improvements ranked by leverage.
 
-### 🎮 sandboxes for the mind
-
-worlds you can poke at. simulation as a way to feel ideas in your hands, about exponentials, about ecosystems, about the kind of universe this one might be.
-
-- **[life-sim-go](https://github.com/codyhxyz/life-sim-go)**: life simulation, in Go.
 
 ---
 
