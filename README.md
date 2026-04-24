@@ -28,7 +28,7 @@
 - **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: end-to-end scaffold for building & publishing Claude Code plugins.
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: end-to-end scaffold for building & publishing Chrome extensions.
 
-### 🛠 extending claude code
+### 💬 how i talk to my computer
 
 building the tools i use to build everything else. agentic scaffolding for thinking alongside LLMs.
 
