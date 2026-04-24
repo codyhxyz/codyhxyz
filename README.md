@@ -26,10 +26,6 @@ this profile is one of several attempts at making myself legible to the world.
 
 ## what i'm building
 
-### 🌱 open-sourcing myself
-
-turning my inner life (healing, worldview, thinking) into something other people can read, fork, and build on. the best version of a personal brand is a public wiki of what i've figured out.
-
 ### 🧠 cognitive augmentation
 
 - **[annotator-extension](https://github.com/codyhxyz/annotator-extension)**: I believe annotation is a missing primitive for the web. Leave notes to yourself; take notes on the web.
@@ -52,8 +48,20 @@ building the tools i use to build everything else. agentic scaffolding for think
 
 ---
 
+## 🧪 Not yet public
+
+*zesting, testing,*
+
+- **Dark Mode Anywhere**
+- **Manic Spending Buddy**
+
+---
+
 ## currently obsessing over
 
+- **🔌 claude plugins as cognitive heuristics**: plugins are really just abstractions for cognitive heuristics. for the first time, i'm being invited to directly open-source the way i think... 🧐
+- **🧠 creating cognitive augmentation tools**: [jump to projects ↓](#-cognitive-augmentation)
+- **🌱 open-sourcing myself**: in the process of making myself legible to the world.
 - **metamorphopolis**: the vision of a village with my friends. a thriving society, starting at the scale where it's actually tractable.
 - **coordination technology**: if IFS is a technology for internal democracy, what's the external analogue? what does the human civilizational organism *look like*?
 - **anti-sitting furniture & walkable cities**: spines compressed all day is a slow-motion civilizational injury. design your environment or it designs you.
@@ -64,11 +72,7 @@ building the tools i use to build everything else. agentic scaffolding for think
 
 ## bets i'm making
 
-- **aliveness > numbness**, always
-- **you can just do things**: it's not a meme, : visualize → pathfind → integrate.
-- **curation is art**; the dialogue around the thing is half the thing
-- **hopeposting is a civic act**, and so is sharing your life's learnings
-- **imperfection is ok**: *you contribute incalculable value in your earnest and imperfect attempt to make sense of the world*
+- **bespoke software eats app stores**
 
 ---
 
