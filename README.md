@@ -50,7 +50,7 @@ building the tools i use to build everything else. agentic scaffolding for think
 
 ## 🧪 Not yet public
 
-*zesting, testing,*
+*zesting, testing, breaking things.*
 
 - **Dark Mode Anywhere**
 - **Manic Spending Buddy**
