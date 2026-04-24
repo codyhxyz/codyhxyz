@@ -7,9 +7,9 @@
 
 *some call me a lemonaut.*
 
-- **🔥 aliveness-maxxer**: numbness is the true opposite of life. every day i'm asking, *am i heading toward aliveness, or running from it?*
-- **☯︎ incentive-aligner**: cells cooperate because the incentives line up. most of what's broken in the world is broken incentives pretending to be broken people. i want to build the coordination technology that fixes the layer below the layer.
-- **🔓 open-sourced human**: my software, my principles, my healing journey. the ecosystem builds itself when the pieces are legible and free.
+- **🔥 aliveness-maxxer**
+- **☯︎ incentive-aligner**
+- **🔓 open-sourced human**
 
 ---
 
