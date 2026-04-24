@@ -11,10 +11,6 @@ i open-source my growth journey, my thinking, and my software, because if someth
 
 this profile is one of several attempts at making myself legible to the world.
 
----
-
-## i am (trying to be) a...
-
 - **🔥 aliveness-maxxer**: numbness is the true opposite of life. every day i'm asking, *am i heading toward aliveness, or running from it?*
 - **☯︎ incentive-aligner**: cells cooperate because the incentives line up. most of what's broken in the world is broken incentives pretending to be broken people. i want to build the coordination technology that fixes the layer below the layer.
 - **🔓 open-sourced human**: my software, my principles, my healing journey. the ecosystem builds itself when the pieces are legible and free.
