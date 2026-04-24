@@ -47,7 +47,7 @@ turning my inner life (healing, worldview, thinking) into something other people
 
 building the tools i use to build everything else. agentic scaffolding for thinking alongside LLMs.
 
-- **[codyhxyz-plugins](https://github.com/codyhxyz/codyhxyz-plugins)**: my full marketplace of Claude Code plugins — subagents, skills, statuslines, hooks. the ways i talk to my computer.
+- **[codyhxyz-plugins](https://github.com/codyhxyz/codyhxyz-plugins)**: these are the ways i talk to my computer.
 
 
 ---
@@ -55,10 +55,9 @@ building the tools i use to build everything else. agentic scaffolding for think
 ## currently obsessing over
 
 - **metamorphopolis**: the vision of a village with my friends. a thriving society, starting at the scale where it's actually tractable.
-- **lemonaut lore**: *lemon + psychonaut + astronaut + le monad.* tag yourself.
 - **coordination technology**: if IFS is a technology for internal democracy, what's the external analogue? what does the human civilizational organism *look like*?
 - **anti-sitting furniture & walkable cities**: spines compressed all day is a slow-motion civilizational injury. design your environment or it designs you.
-- **abundance engineering**: games under extractive capitalism are negative-sum. games under post-scarcity are positive-sum. i believe the second one is a software problem.
+- **abundance engineering**: games under extractive capitalism are negative-sum. games under post-scarcity are positive-sum. i care about creating the scaffolding that gets us from the first one to the second one as painlessly as possible.
 - **empathy tech**: one day everyone will understand, first intellectually then experientially, what MDMA-assisted safety and 5-MeO dissolution have to teach us.
 
 ---
@@ -66,9 +65,9 @@ building the tools i use to build everything else. agentic scaffolding for think
 ## bets i'm making
 
 - **aliveness > numbness**, always
-- **you can just do things**: it's not a meme, it's a protocol. visualize → pathfind → integrate.
+- **you can just do things**: it's not a meme, : visualize → pathfind → integrate.
 - **curation is art**; the dialogue around the thing is half the thing
-- **hopeposting is a civic act**, and so is sharing your healing
+- **hopeposting is a civic act**, and so is sharing your life's learnings
 - **imperfection is ok**: *you contribute incalculable value in your earnest and imperfect attempt to make sense of the world*
 
 ---
@@ -77,7 +76,7 @@ building the tools i use to build everything else. agentic scaffolding for think
 
 - 🐦 twitter: [@lemonautzest](https://twitter.com/lemonautzest)
 - 🌐 site: [codyh.xyz](https://codyh.xyz)
-- 📖 notion: [open sourcing myself](https://www.notion.so/Open-Sourcing-Myself-344ebf65807981c394e6ff1eedd8aa55)
+
 
 ---
 
