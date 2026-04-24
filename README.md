@@ -18,12 +18,12 @@
 ### 🧠 cognitive augmentation
 
 - **[web-annotator](https://github.com/codyhxyz/web-annotator)**: I believe annotation is a missing primitive for the web. Leave notes to yourself; take notes on the web.
-- **[playlist-search-extension](https://github.com/codyhxyz/playlist-search-extension)**: Adds a much-needed search bar for saving YouTube playlists. Visit [playlist.codyh.xyz](playlist.codyh.xyz) for an easy save-to-playlist experience on mobile.
+- **[YouTube Playlist Search](https://github.com/codyhxyz/playlist-search-extension)**: Adds a much-needed search bar for saving YouTube playlists. Visit [playlist.codyh.xyz](playlist.codyh.xyz) for an easy save-to-playlist experience on mobile.
 - **[chrome-text-summarizer](https://github.com/codyhxyz/chrome-text-summarizer)**: Right-click > Summarize Text for any Chromium browser.
 - **[spotify-notes](https://github.com/codyhxyz/spotify-notes)**: the missing tool for taking notes on the music you listen to.
 
 
-### 🛠️ tools for creators
+### 🛠️ bespoke software accelerants
 
 - **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: end-to-end scaffold for building & publishing Claude Code plugins.
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: end-to-end scaffold for building & publishing Chrome extensions.
