@@ -23,7 +23,7 @@
 - **[spotify-notes](https://github.com/codyhxyz/spotify-notes)**: the missing tool for taking notes on the music you listen to.
 
 
-### 🛠️ bespoke software accelerants
+### 🚀 build your own bespoke software
 
 - **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: end-to-end scaffold for building & publishing Claude Code plugins.
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: end-to-end scaffold for building & publishing Chrome extensions.
