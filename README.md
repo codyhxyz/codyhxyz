@@ -45,7 +45,7 @@ building the tools i use to build everything else. agentic scaffolding for think
 
 ---
 
-## 🧪 Not yet public
+## 🧪 not yet public
 
 *zesting, testing, breaking things.*
 
