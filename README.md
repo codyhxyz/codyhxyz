@@ -5,7 +5,7 @@
 
 # hi, i'm cody 🍋✨
 
-*some call me a lemonaut.*
+*some call me a [lemonaut](https://twitter.com/lemonautzest).*
 
 - **🔥 aliveness-maxxer**: aliveness >>> numbness.
 - **☯︎ incentive-aligner**: *"show me the incentive, and I'll show you the outcome"* — Charlie Munger
