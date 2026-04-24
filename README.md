@@ -37,12 +37,13 @@ building the tools i use to build everything else. agentic scaffolding for think
 
 ---
 
-## 🧪 not yet public
+## 🧪 in development
 
 *zesting, testing, breaking things.*
 
 - **Dark Mode Anywhere**
 - **Manic Spending Buddy**
+- **Flur**
 
 ---
 
