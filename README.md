@@ -30,7 +30,7 @@
 
 ### ⚙️ my claude code stack
 
-- **[codyhxyz-plugins](https://github.com/codyhxyz/codyhxyz-plugins)**: these are the ways i talk to my computer.
+- **[skills](https://github.com/codyhxyz/skills)**: these are the ways i talk to my computer.
 
 
 ---
