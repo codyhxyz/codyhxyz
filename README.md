@@ -40,7 +40,7 @@
 *zesting, testing, breaking things.*
 
 - **Dark Mode Anywhere**: The only dark mode extension that covers 100% of the web.
-- **Manic Spending Buddy**: I believe your money should work for you--that it should try its very best to convince you not to spend it.
+- **Manic Spending Buddy**: Capitalism is missing an agent incentivized to help you _not_ spend money. Consumers need more deflationary forces showing them how to make use of cheap of free alternatives than the new, shiny thing. Stop buying books you can get for free online.
 - **Flur**: a place for images. Curate like are.na, organize like mymind.com. Because are.na is too expensive. Open-source.
 - **Not A Financial Advisor (NAFA)**: It's 2026. Screw spending $200/yr for Reddit's darling YNAB (You Need A Budget). Use a free API like Teller to fetch your transaction data, and get an LLM to build you a budget. Forever Free, Open-Source Software with a first-party hosted site.
 
