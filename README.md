@@ -59,6 +59,7 @@
 - **bespoke software eats app stores**: [[1]](https://x.com/karpathy/status/2024583544157458452)
 - **young entrepreneur explosion**: [[1]](https://highagency.com)
 - **open-sourcing yourself is digital self-actualization**: [[1]](https://github.com/codyhxyz/codyhxyz/tree/main)
+- **The cost of software development is approaching $0**
 
 ---
 
