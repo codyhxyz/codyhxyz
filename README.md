@@ -19,10 +19,10 @@ i embody these core principles:
 ### 🧠 cognitive augmentation
 _humans are augmenting themselves with bespoke software, to massive effect. there has never been a better time to learn how to do augment yourself, nor more to gain. here I'm sharing some of the tools I'm using to augment myself._
 
-- **[skills](https://github.com/codyhxyz/skills)**: here is where I'm putting my cognitive heuristics. these are the ways I talk to my computer.
+- **[skills](https://github.com/codyhxyz/skills)**: sharing my cognitive heuristics. these are the ways I talk to my computer.
 
 ### 🧰 stack
-- **[stack](https://github.com/codyhxyz/stack)**: sharing my software stack.
+- **[stack](https://github.com/codyhxyz/stack)**: sharing my software stack; awesome software i think more people should be aware of.
 
 
 ### ⚙️ my bespoke software
