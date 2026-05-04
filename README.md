@@ -15,7 +15,13 @@
 ## what i'm building
 
 ### 🧠 cognitive augmentation
-_here are some of the tools I'm using to augment myself in the age of bespoke software._
+_humans are augmenting themselves with bespoke software, to massive effect. there has never been a better time to learn how to do augment yourself, nor more to gain. here I'm sharing some of the tools I'm using to augment myself._
+
+- **[skills](https://github.com/codyhxyz/skills)**: here is where I'm putting my cognitive heuristics. these are the ways I talk to my computer.
+
+
+### ⚙️ my bespoke software
+_here are some tools I built to solve some of my own problems. I'm sharing them below:_
 <details>
   <summary><strong><a href="https://github.com/codyhxyz/web-annotator">Web Annotator</a></strong></summary>
   I believe the internet is missing an annotation layer. Leave and share notes about the web, on the web.
@@ -43,14 +49,12 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
 </details> 
 
 
-### 🚀 build your own bespoke software
+### 🚀 building your own bespoke software
+_I've built pipelines that build pipelines. Here I'm sharing some tools I've built to remove frustrating obstacles I've encountered to building (& sharing) things:_
 
 - **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: Nifty end-to-end scaffold for building & publishing Claude Code plugins.
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: Nifty end-to-end scaffold for building & publishing Chrome extensions.
-
-### ⚙️ my claude code stack
-_here are some of the ways I talk to my computer_
-- **[skills](https://github.com/codyhxyz/skills)**: 
+- (in development) **create**: Nifty end-to-end scaffold to build, well, anything really, in a self-consistent manner across projects.
 
 
 ---
