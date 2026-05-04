@@ -50,7 +50,8 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
 </details>  
 <details>
   <summary><strong><a href="https://github.com/codyhxyz/spotify-notes"><img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="A-orb-128" src="https://github.com/user-attachments/assets/6b6ac4a6-645c-4208-84c0-c870d1cba97b" />Spotify Notes</a></strong>: need to take notes on music for DJ library curation</summary>
-  take notes as you listen to songs on Spotify.
+  take notes as you listen to songs on Spotify. live at <a href="https://songnotes.codyh.xyz">songnotes.codyh.xyz</a>.
+  <img width="1440" alt="My Song Notes landing page" src="./assets/spotify-notes-landing.png" />
 </details>
 
 #### in development
