@@ -6,7 +6,7 @@
 
 *some call me a [lemonaut](https://twitter.com/lemonautzest).*
 
-core principles i embody:
+i embody these core principles:
 
 - **🔥 aliveness-maxxer**: aliveness >>> numbness
 - **☯︎ incentive-aligner**: *"show me the incentive, and I'll show you the outcome"* — Charlie Munger
