@@ -21,6 +21,20 @@ _humans are augmenting themselves with bespoke software, to massive effect. ther
 
 - **[skills](https://github.com/codyhxyz/skills)**: here is where I'm putting my cognitive heuristics. these are the ways I talk to my computer.
 
+### 🧰 stack
+_the software I reach for every day. **legend:** 🌐 open-source._
+
+#### core software
+- 🌐 **[Claude Code](https://github.com/anthropics/claude-code)**: my primary interface for thinking with my computer.
+- **[Raycast](https://raycast.com)**: launcher / clipboard / window manager. Spotlight replacement.
+- **[Obsidian](https://obsidian.md)**: local-first markdown notes.
+- 🌐 **[Cap](https://cap.so)**: open-source Loom replacement — screen recording with shareable links.
+- **Muesli**: WisprFlow + Granola in one — voice dictation + meeting notes.
+- **Pi** _(soon)_: once I start using it.
+
+#### add-ons (augment existing software, not standalone)
+_my own browser extensions are all add-ons — see [my bespoke software ↓](#%EF%B8%8F-my-bespoke-software): Web Annotator, YouTube Playlist Search, Webpage Summarizer, Spotify Notes._
+
 
 ### ⚙️ my bespoke software
 _here are some tools I built to solve some of my own problems. I'm sharing them below:_
