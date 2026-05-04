@@ -47,6 +47,8 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
   <summary><strong><a href="https://github.com/codyhxyz/spotify-notes"><img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="A-orb-128" src="https://github.com/user-attachments/assets/6b6ac4a6-645c-4208-84c0-c870d1cba97b" />Spotify Notes</a></strong>: need to take notes on music for DJ library curation</summary>
   take notes as you listen to songs on Spotify.
 </details>
+
+#### in development
 <details>
   <summary><strong>Manic Spending Buddy</strong>: need to stop buying things I can get for free</summary>
   Capitalism is missing an agent incentivized to help you <em>not</em> spend money. Consumers need more deflationary forces showing them how to make use of cheap of free alternatives than the new, shiny thing. Meet MSB.
@@ -56,11 +58,11 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
   It's 2026. Screw spending $200/yr for Reddit's darling YNAB (You Need A Budget). Meet NAFA: Not a Financial Advisor. Use a free API like Teller to fetch your transaction data, and get an LLM to build you a budget and supervise your purchasing habits. Forever Free, Open-Source Software with a first-party hosted site.
 </details>
 <details>
-  <summary><strong>Dark Mode Anywhere</strong>: need dark mode on every site, not just the cooperative ones</summary>
+  <summary><strong>Dark Mode Anywhere</strong>: need dark mode on every site</summary>
   The only dark mode extension that covers 100% of the web.
 </details>
 <details>
-  <summary><strong>Flur</strong>: need an affordable open-source place for images</summary>
+  <summary><strong>Flur</strong>: need an affordable open-source are.na for curating my design taste</summary>
   a place for images. Curate like are.na, organize like mymind.com. Because are.na is too expensive. Open-source.
 </details> 
 
