@@ -46,6 +46,22 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
 <details>
   <summary><strong><a href="https://github.com/codyhxyz/spotify-notes"><img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="A-orb-128" src="https://github.com/user-attachments/assets/6b6ac4a6-645c-4208-84c0-c870d1cba97b" />Spotify Notes</a></strong>: need to take notes on music for DJ library curation</summary>
   take notes as you listen to songs on Spotify.
+</details>
+<details>
+  <summary><strong>Manic Spending Buddy</strong>: need to stop buying things I can get for free</summary>
+  Capitalism is missing an agent incentivized to help you <em>not</em> spend money. Consumers need more deflationary forces showing them how to make use of cheap of free alternatives than the new, shiny thing. Meet MSB.
+</details>
+<details>
+  <summary><strong>Not A Financial Advisor (NAFA)</strong>: need to budget without paying $200/yr for YNAB</summary>
+  It's 2026. Screw spending $200/yr for Reddit's darling YNAB (You Need A Budget). Meet NAFA: Not a Financial Advisor. Use a free API like Teller to fetch your transaction data, and get an LLM to build you a budget and supervise your purchasing habits. Forever Free, Open-Source Software with a first-party hosted site.
+</details>
+<details>
+  <summary><strong>Dark Mode Anywhere</strong>: need dark mode on every site, not just the cooperative ones</summary>
+  The only dark mode extension that covers 100% of the web.
+</details>
+<details>
+  <summary><strong>Flur</strong>: need an affordable open-source place for images</summary>
+  a place for images. Curate like are.na, organize like mymind.com. Because are.na is too expensive. Open-source.
 </details> 
 
 
@@ -56,17 +72,6 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: Nifty end-to-end scaffold for building & publishing Chrome extensions.
 - (in development) **create**: Nifty end-to-end scaffold to build, well, anything really, in a self-consistent manner across projects.
 
-
----
-
-## in development
-
-*zesting, testing, breaking things.*
-
-- **Manic Spending Buddy**: Stop buying books you can get for free online; Capitalism is missing an agent incentivized to help you _not_ spend money. Consumers need more deflationary forces showing them how to make use of cheap of free alternatives than the new, shiny thing. Meet MSB.
-- **Not A Financial Advisor (NAFA)**: It's 2026. Screw spending $200/yr for Reddit's darling YNAB (You Need A Budget). Meet NAFA: Not a Financial Advisor. Use a free API like Teller to fetch your transaction data, and get an LLM to build you a budget and supervise your purchasing habits. Forever Free, Open-Source Software with a first-party hosted site.
-- **Dark Mode Anywhere**: The only dark mode extension that covers 100% of the web.
-- **Flur**: a place for images. Curate like are.na, organize like mymind.com. Because are.na is too expensive. Open-source.
 
 ---
 
