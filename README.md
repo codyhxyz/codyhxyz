@@ -1,15 +1,14 @@
 <!--
   GitHub profile README for codyhxyz/codyhxyz.
   This file goes in https://github.com/codyhxyz/codyhxyz as README.md.
--->
-
+--> 
 # hi, i'm cody 🍋✨
 
 *some call me a [lemonaut](https://twitter.com/lemonautzest).*
 
 - **🔥 aliveness-maxxer**: aliveness >>> numbness
 - **☯︎ incentive-aligner**: *"show me the incentive, and I'll show you the outcome"* — Charlie Munger
-- **🌐 open-sourced human**: information wants to be free
+- **🌐 open-sourced human**: information wants to be free. it also wants to be integrated. become part of the great collaborative experiment we call 'human civilization in the time of the internet' by open-sourcing yourself.
 
 ---
 
@@ -17,11 +16,31 @@
 
 ### 🧠 cognitive augmentation
 _here are some of the tools I'm using to augment myself in the age of bespoke software._
+<details>
+  <summary><strong><a href="https://github.com/codyhxyz/web-annotator">Web Annotator</a></strong></summary>
+  I believe the internet is missing an annotation layer. Leave and share notes about the web, on the web.
+</details>
+<details>
+<summary><strong><a href="https://github.com/codyhxyz/playlist-search-extension"><img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://github.com/user-attachments/assets/b0588941-61c1-48bc-8ca5-5c3754f27dca"/> YouTube Playlist Search</a></strong></summary>
 
-- **[web-annotator](https://github.com/codyhxyz/web-annotator)**: I believe the internet is missing an annotation layer. Leave and share notes about the web, on the web.
-- **[YouTube Playlist Search](https://github.com/codyhxyz/playlist-search-extension)**: chrome extension that adds a filter bar making 'save to playlist' actually usable for lots of playlists. also bypasses YT's 200-playlist cap, letting you search all your playlists, not just your most recent 200. Also visit [playlist.codyh.xyz](playlist.codyh.xyz) for a useful save-to-playlist experience on mobile.
-- **[Webpage Summarizer](https://github.com/codyhxyz/webpage-summarizer)**: chrome extension for right-click > summarize highlighted text.
-- **[spotify-notes](https://github.com/codyhxyz/spotify-notes)**: take notes as you listen to songs on Spotify.
+chrome extension that adds a filter bar making 'save to playlist' actually usable for lots of playlists. also bypasses YT's 200-playlist cap, letting you search all your playlists, not just your most recent 200. Also visit <a href="https://playlist.codyh.xyz">playlist.codyh.xyz</a> for a useful save-to-playlist experience on mobile.
+
+https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
+
+</details>
+
+<details>
+  <summary><strong><a href="https://github.com/codyhxyz/webpage-summarizer"><img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://github.com/user-attachments/assets/cc8cb730-7c16-4976-8fe7-5c3c2619bb58"/>Webpage Summarizer</a></strong></summary>
+  chrome extension for right-click > summarize highlighted text in your browser. built before browsers like Dia and extensions like Claude in Chrome began to normalize AI sidebars.
+  <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7e4325b6-6736-406d-9466-95d91ed8eed8" />
+  
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/6883c034-814f-4a2b-91f4-3459ddd3d6be" />
+
+</details>  
+<details>
+  <summary><strong><a href="https://github.com/codyhxyz/spotify-notes"><img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="A-orb-128" src="https://github.com/user-attachments/assets/6b6ac4a6-645c-4208-84c0-c870d1cba97b" />Spotify Notes</a></strong></summary>
+  take notes as you listen to songs on Spotify.
+</details> 
 
 
 ### 🚀 build your own bespoke software
@@ -66,6 +85,8 @@ _here are some of the ways I talk to my computer_
 
 - 🐦 twitter: [@lemonautzest](https://twitter.com/lemonautzest)
 - 🌐 site: [codyh.xyz](https://codyh.xyz)
+
+
 
 
 ---
