@@ -22,7 +22,7 @@ _humans are augmenting themselves with bespoke software, to massive effect. ther
 - **[skills](https://github.com/codyhxyz/skills)**: here is where I'm putting my cognitive heuristics. these are the ways I talk to my computer.
 
 ### 🧰 stack
-- **[stack](https://github.com/codyhxyz/stack)**: the software I reach for every day — core software + add-ons (incl. my own browser extensions). 🌐 = open-source.
+- **[stack](https://github.com/codyhxyz/stack)**: sharing my software stack.
 
 
 ### ⚙️ my bespoke software
