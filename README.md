@@ -28,7 +28,7 @@ _humans are augmenting themselves with bespoke software, to massive effect. ther
 ### ⚙️ my bespoke software
 _here are some tools I built to solve some of my own problems. I'm sharing them below:_
 <details>
-  <summary><strong><a href="https://github.com/codyhxyz/web-annotator">Web Annotator</a></strong>: need to take notes on the web</summary>
+  <summary><strong><a href="https://github.com/codyhxyz/web-annotator">Web Annotator</a></strong>: need to take notes on webpages so I don't forget why I opened it</summary>
   I believe the internet is missing an annotation layer. Leave and share notes about the web, on the web.
 </details>
 <details>
