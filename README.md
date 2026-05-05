@@ -21,7 +21,7 @@ _humans are augmenting themselves with bespoke software, to massive effect. ther
 
 - **cody's [skills](https://github.com/codyhxyz/skills)**: sharing my cognitive heuristics. these are the ways I talk to my computer.
 
-### 🧰 stack
+### 🧰 my stack
 - **cody's [stack](https://github.com/codyhxyz/stack)**: sharing my software stack; awesome software i think more people should be aware of.
 
 
