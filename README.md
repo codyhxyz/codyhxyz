@@ -75,6 +75,13 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
   <img width="1200" height="681" alt="image" src="https://github.com/user-attachments/assets/e2428a64-c5e4-42a1-a77a-6448af33834c" />
 
 </details> 
+<details>
+  <summary><strong>Cody's New Tab</strong>: need my tabs organized against ADHD</summary>
+  
+<img width="1512" height="809" alt="image" src="https://github.com/user-attachments/assets/53e03084-ddee-4fa2-9f62-2daa6bb4cd20" />
+
+</details> 
+
 
 
 ### 🚀 building your own bespoke software
