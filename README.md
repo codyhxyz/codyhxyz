@@ -19,10 +19,10 @@ i embody these core principles:
 ### 🧠 cognitive augmentation
 _humans are augmenting themselves with bespoke software, to massive effect. there has never been a better time to learn how to do augment yourself, nor more to gain. here I'm sharing some of the tools I'm using to augment myself._
 
-- **[skills](https://github.com/codyhxyz/skills)**: sharing my cognitive heuristics. these are the ways I talk to my computer.
+- **cody's [skills](https://github.com/codyhxyz/skills)**: sharing my cognitive heuristics. these are the ways I talk to my computer.
 
 ### 🧰 stack
-- **[stack](https://github.com/codyhxyz/stack)**: sharing my software stack; awesome software i think more people should be aware of.
+- **cody's [stack](https://github.com/codyhxyz/stack)**: sharing my software stack; awesome software i think more people should be aware of.
 
 
 ### ⚙️ my bespoke software
@@ -93,9 +93,11 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 
 ## bets i'm making
 
-- **bespoke software eats app stores as custom software development becomes a basic human need like internet access**: [[1]](https://x.com/karpathy/status/2024583544157458452)
+- **bespoke software eats app stores**; custom software development becomes a basic human need like access to reliable internet: [[1]](https://x.com/karpathy/status/2024583544157458452)
 - **soon: hyper-entrepreneurial explosion!**: [[1]](https://highagency.com)
-- **open-sourcing yourself is digital self-actualization**: [[1]](https://github.com/codyhxyz/codyhxyz/tree/main)
+- **open-sourcing yourself is a necessary act of digital self-actualization**: [[1]](https://github.com/codyhxyz/codyhxyz/tree/main)
+- **articulating to LLMs in domain-agnostic language drastically improves performance**; implementation details have never mattered less: you should spend a disproportionate amount of time elucidating WHAT you want, not HOW you want to achieve those goals.
+- **LLMS are next-token prediction machines whose writing voice is fundamentally cliché and whose logic is not valid.**
 ---
 
 ## find me elsewhere
