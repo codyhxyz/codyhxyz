@@ -58,6 +58,8 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
 <details>
   <summary><strong>Manic Spending Buddy</strong>: need to stop making frivolous Amazon purchases</summary>
   Capitalism is missing an agent incentivized to help you <em>not</em> spend money. Consumers need more deflationary forces showing them how to make use of cheap of free alternatives than the new, shiny thing. Meet MSB.
+  <img width="1200" height="497" alt="image" src="https://github.com/user-attachments/assets/c62398ab-7384-4f10-8e47-585f749fe7e9" />
+
 </details>
 <details>
   <summary><strong>Not A Financial Advisor (NAFA)</strong>: need to budget without paying $200/yr for YNAB</summary>
@@ -69,7 +71,9 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
 </details>
 <details>
   <summary><strong>Flur</strong>: need an affordable open-source are.na for curating my design taste</summary>
-  a place for images. Curate like are.na, organize like mymind.com. Because are.na is too expensive. Open-source.
+  a place for images, because are.na is too expensive. Curate like are.na, organize like mymind.com.  Open-source.
+  <img width="1200" height="681" alt="image" src="https://github.com/user-attachments/assets/e2428a64-c5e4-42a1-a77a-6448af33834c" />
+
 </details> 
 
 
