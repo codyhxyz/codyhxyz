@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
 
 #### in development
 <details>
-  <summary><strong>Manic Spending Buddy</strong>: need to stop buying things I can get for free</summary>
+  <summary><strong>Manic Spending Buddy</strong>: need to stop making frivolous Amazon purchases</summary>
   Capitalism is missing an agent incentivized to help you <em>not</em> spend money. Consumers need more deflationary forces showing them how to make use of cheap of free alternatives than the new, shiny thing. Meet MSB.
 </details>
 <details>
