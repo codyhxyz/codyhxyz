@@ -99,8 +99,8 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 
 - **bespoke software eats app stores**; custom software development becomes a basic human need like access to reliable internet: [[1]](https://x.com/karpathy/status/2024583544157458452)
 - **soon: hyper-entrepreneurial explosion!**: [[1]](https://highagency.com)
-- **open-sourcing yourself is a necessary act of digital self-actualization**: [[1]](https://github.com/codyhxyz/codyhxyz/tree/main)
-- **do not waste your time on implementation details**: spend a disproportionate amount of time elucidating WHAT you want, not HOW you want the LLM to achieve those goals.
+- **open-sourcing yourself is a necessary act of digital self-actualization**: what does it mean to live an examined life in the age of the internet? [[1]](https://github.com/codyhxyz/codyhxyz/tree/main)
+- **don't waste time on implementation details**: spend a disproportionate amount of time elucidating WHAT you want, not HOW you want the LLM to achieve those goals.
 - **one-shot or bust**: if at first you don't succeed, delete it all and prompt again (with more specificity this time). Don't waste time getting the LLM to fix the bug, rewind before you created it in the first place and try something else. 
 - **Do Not Trust the Em-dash Machine**: LLMs are next-token prediction machines who have fundamentally clichéd writing voice and fundamentally invalid logic. I am not absolutely right; it is a sycophant, and it has no idea what it's talking about. Ask it to defend one side of an argument and it will do so. Ask it to defend another side and it will do so as well: [[1]](https://x.com/karpathy/status/2037921699824607591)
 ---
