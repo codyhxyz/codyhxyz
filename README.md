@@ -11,6 +11,7 @@ i embody these core principles:
 - **🔥 aliveness-maxxer**: aliveness >>> numbness
 - **☯︎ incentive-aligner**: *"show me the incentive, and I'll show you the outcome"* — Charlie Munger
 - **🌐 open-sourced human**: information wants to be free. it also wants to be integrated. become part of the great collaborative experiment we call 'human civilization in the time of the internet' by open-sourcing yourself.
+- **📐 plan before doing**: separate planning from doing — both for ADHD focus and for AI output quality. spend outsized time crafting the plan.
 
 ---
 
