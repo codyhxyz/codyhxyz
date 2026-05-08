@@ -113,6 +113,7 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 - **📐 plan before doing**: separate planning from doing — both for ADHD focus and for AI output quality. spend outsized time crafting the plan.
 - **organize what you create**: you can't outsource your understanding to AI. you can, however, save time by telling the AI where to put it. this is how i add content to my notion in 2026.
 - **ai's role in writing**: can help you understand the structure of your writing, and learn grammar rules. ai should never touch voice. use the cognitive scaffolding to think bigger thoughts, not to avoid thinking entirely.
+- **it's the era of generative UI**
 ---
 
 ## find me elsewhere
