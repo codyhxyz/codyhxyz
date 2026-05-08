@@ -112,6 +112,7 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 - **Do Not Trust the Em-dash Machine**: LLMs are next-token prediction machines who have fundamentally clichéd writing voice and fundamentally invalid logic. I am not absolutely right; it is a sycophant, and it has no idea what it's talking about. Ask it to defend one side of an argument and it will do so. Ask it to defend another side and it will do so as well: [[1]](https://x.com/karpathy/status/2037921699824607591)
 - **📐 plan before doing**: separate planning from doing — both for ADHD focus and for AI output quality. spend outsized time crafting the plan.
 - **organize what you create**: you can't outsource your understanding to AI. you can, however, save time by telling the AI where to put it. this is how i add content to my notion in 2026.
+- **ai's role in writing**: can help you understand the structure of your writing, and learn grammar rules. ai should never touch voice. use the cognitive scaffolding to think bigger thoughts, not to avoid thinking entirely.
 ---
 
 ## find me elsewhere
