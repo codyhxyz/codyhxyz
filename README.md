@@ -11,7 +11,7 @@ i embody these core principles:
 - **🔥 aliveness-maxxer**: aliveness >>> numbness
 - **☯︎ incentive-aligner**: *"show me the incentive, and I'll show you the outcome"* — Charlie Munger
 - **🌐 open-sourced human**: information wants to be free. it also wants to be integrated. become part of the great collaborative experiment we call 'human civilization in the time of the internet' by open-sourcing yourself.
-- **building for ourselves is building for others**
+- **"your problem might just be everyone else's"** — [Pieter Levels, *MAKE: Bootstrapper's Handbook*](https://readmake.com/)
 
 ---
 
@@ -115,6 +115,8 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 - **organize what you create, but do it fast**: [you can't outsource your understanding to AI](https://x.com/karpathy/status/2049907410303865030). you can, however, delegate the gruntwork of manual organization. this is how i add content to my notion in 2026.
 - **ai's role in writing**: can help you understand the structure of your writing, and learn grammar rules. ai should never touch voice. use the cognitive scaffolding to think bigger thoughts, not to avoid thinking entirely.
 - **generative UI as a paradigm takes off**
+- **the PR and the issue are not the future of software development**: *"there are very few people internally [at GitHub] who believe that PR and the issue are the future of software development"* — GitHub, [via YouTube](https://www.youtube.com/watch?v=ClWD8OEYgp8&t=164s). the primitives of collaborative software are due for reinvention in the age of agents.
+- **in a sea of slop, quality craftsmanship is the new differentiator**: [[1]](https://youtu.be/ClWD8OEYgp8?t=986)
 ---
 
 ## find me elsewhere
