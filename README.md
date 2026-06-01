@@ -120,10 +120,10 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 - **Do Not Trust the Em-dash**: LLMs are next-token prediction machines who have fundamentally clichéd writing voice and fundamentally invalid logic. I am not absolutely right; it is a sycophant, and it has no idea what it's talking about. Ask it to defend one side of an argument and it will do so. Ask it to defend another side and it will do so as well. The absence of solidity is suspect. [[1]](https://x.com/karpathy/status/2037921699824607591)
 - **separate planning & doing**: I worked at a startup that failed to plan before doing, and it cost us our funding round. Separate planning from doing, both for [ADHD focus](https://x.com/zetalyrae/status/1933650594964910367?s=51) and for AI output quality. spend outsized time crafting the plan.
 - **organize what you create, but do it fast**: [you can't outsource your understanding to AI](https://x.com/karpathy/status/2049907410303865030). you can, however, delegate the gruntwork of manual organization. this is how i add content to my notion in 2026.
-- **ai's role in writing**: can help you understand the structure of your writing, and learn grammar rules. ai should never touch voice. use the cognitive scaffolding to think bigger thoughts, not to avoid thinking entirely.
-- **generative UI as a paradigm takes off**
+- **ai's role in writing**: can help you understand the structure of your writing, and learn grammar rules. ai should never touch voice. use the cognitive scaffolding to think bigger thoughts, not to avoid thinking entirely. let the llm rearrange your sentence, try your best never to give it power over word choice or you lose your voice.
+- **generative UI as a paradigm takes off**: the current era of apps will be seen as 'one-size-fits-all' apps. the future of UI is tailored to the individual.
 - **the PR and the issue are not the future of software development**: *"there are very few people internally [at GitHub] who believe that PR and the issue are the future of software development"* — GitHub, [via YouTube](https://www.youtube.com/watch?v=ClWD8OEYgp8&t=164s). the primitives of collaborative software are due for reinvention in the age of agents.
-- **in a sea of slop, quality craftsmanship is the new differentiator**: [[1]](https://youtu.be/ClWD8OEYgp8?t=986)
+- **in a sea of slop, quality craftsmanship (taste) is the new differentiator**: [[1]](https://youtu.be/ClWD8OEYgp8?t=986)
 ---
 
 ## find me elsewhere
