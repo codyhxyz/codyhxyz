@@ -82,16 +82,23 @@ https://github.com/user-attachments/assets/a88daabf-a9f1-42e0-80e6-7de4250cf34c
 <img width="1512" height="809" alt="image" src="https://github.com/user-attachments/assets/53e03084-ddee-4fa2-9f62-2daa6bb4cd20" />
 
 </details> 
+<details>
+  <summary><strong>Notes for Amazon List</strong>: need to remember why I saved that item</summary>
+</details> 
+
+<details>
+  <summary><strong>Amazon List Search</strong>: need to quickly add items to the right Amazon list</summary>
+</details> 
 
 
 
 ### 🚀 building your own bespoke software
 _I've built pipelines that build pipelines. Here I'm sharing some tools I've built to remove frustrating obstacles I've encountered to building (& sharing) things:_
 
-- **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: Nifty end-to-end scaffold for building & publishing Claude Code plugins.
-- **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: Nifty end-to-end scaffold for building & publishing Chrome extensions.
-- (in development) **create**: Nifty end-to-end scaffold to build, well, anything really, in a self-consistent manner across projects.
-
+- **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: Nifty end-to-end scaffold for building, testing, & publishing Claude Code plugins.
+- **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: Nifty end-to-end scaffold for building, testing, & publishing Chrome extensions.
+- (in development) **create-github-repo**: Nifty end-to-end scaffold for publishing GitHub repos.
+- (in development) **create-mac-app**: Nifty end-to-end scaffold for building, testing, & publishing MacOS apps on the App Store.
 
 ---
 
@@ -110,8 +117,8 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 - **open-sourcing yourself is a necessary act of digital self-actualization**: what does it mean to live an examined life in the age of the internet? [[1]](https://github.com/codyhxyz/codyhxyz/tree/main)
 - **don't waste time on implementation details**: spend a disproportionate amount of time elucidating WHAT you want, not HOW you want the LLM to achieve those goals.
 - **one-shot or bust**: if at first you don't succeed, delete it all and prompt again (with more specificity this time). Don't waste time getting the LLM to fix the bug, rewind before you created it in the first place and try something else. 
-- **Do Not Trust the Em-dash Machine**: LLMs are next-token prediction machines who have fundamentally clichéd writing voice and fundamentally invalid logic. I am not absolutely right; it is a sycophant, and it has no idea what it's talking about. Ask it to defend one side of an argument and it will do so. Ask it to defend another side and it will do so as well: [[1]](https://x.com/karpathy/status/2037921699824607591)
-- **plan before doing**: separate planning from doing, both for [ADHD focus](https://x.com/zetalyrae/status/1933650594964910367?s=51) and for AI output quality. spend outsized time crafting the plan.
+- **Do Not Trust the Em-dash**: LLMs are next-token prediction machines who have fundamentally clichéd writing voice and fundamentally invalid logic. I am not absolutely right; it is a sycophant, and it has no idea what it's talking about. Ask it to defend one side of an argument and it will do so. Ask it to defend another side and it will do so as well: [[1]](https://x.com/karpathy/status/2037921699824607591)
+- **separate planning & doing**: I worked at a startup that failed to plan before doing, and it cost us our funding round. Separate planning from doing, both for [ADHD focus](https://x.com/zetalyrae/status/1933650594964910367?s=51) and for AI output quality. spend outsized time crafting the plan.
 - **organize what you create, but do it fast**: [you can't outsource your understanding to AI](https://x.com/karpathy/status/2049907410303865030). you can, however, delegate the gruntwork of manual organization. this is how i add content to my notion in 2026.
 - **ai's role in writing**: can help you understand the structure of your writing, and learn grammar rules. ai should never touch voice. use the cognitive scaffolding to think bigger thoughts, not to avoid thinking entirely.
 - **generative UI as a paradigm takes off**
