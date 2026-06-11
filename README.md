@@ -120,7 +120,7 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 - **generative UI as a paradigm takes off**: the current era of apps will be seen as 'one-size-fits-all' apps. the future of UI is tailored to the individual.
 - **the PR and the issue are not the future of software development**: *"there are very few people internally [at GitHub] who believe that PR and the issue are the future of software development"* — GitHub, [via YouTube](https://www.youtube.com/watch?v=ClWD8OEYgp8&t=164s). the primitives of collaborative software are due for reinvention in the age of agents.
 - **in a sea of slop, quality craftsmanship (taste) is the new differentiator**: [[1]](https://youtu.be/ClWD8OEYgp8?t=986)
-- **the USA ought to make use of waste-to-energy bottom ash, which, ironically, gets thrown away.**
+- **the USA ought to make use of waste-to-energy bottom ash, which, ironically, gets thrown awa in 95% of cases, despite its usefulness as a building material.**
 - **nuclear power, currently thorium molten salt reactors, and soon nuclear fusion reactors, hold the answer to our energy problems.**
 ---
 
