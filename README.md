@@ -29,10 +29,6 @@ _humans are augmenting themselves with bespoke software, to massive effect. ther
 ### ⚙️ my bespoke software
 _here are some tools I've built to solve some of my own problems. I'm sharing them below:_
 <details>
-  <summary><strong><a href="https://github.com/codyhxyz/web-annotator">Web Annotator</a></strong>: need to take notes on webpages so I don't forget why I opened it</summary>
-  I believe the internet is missing an annotation layer. Leave and share notes about the web, on the web.
-</details>
-<details>
 <summary><strong><a href="https://github.com/codyhxyz/playlist-search-extension"><img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://github.com/user-attachments/assets/b0588941-61c1-48bc-8ca5-5c3754f27dca"/> YouTube Playlist Search</a></strong>: need to add videos to the right playlists</summary>
 
 chrome extension that adds a filter bar making 'save to playlist' actually usable for lots of playlists. also bypasses YT's 200-playlist cap, letting you search all your playlists, not just your most recent 200. Also visit <a href="https://playlist.codyh.xyz">playlist.codyh.xyz</a> for a useful save-to-playlist experience on mobile.
