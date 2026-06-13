@@ -108,6 +108,7 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 
 ## bets i'm making
 
+- **source code is now source conversations**: whoever makes GitHub v2 will have to catch up to this [1](https://zed.dev/blog/introducing-deltadb#source-code-is-now-source-conversation)
 - **bespoke software eats app stores**; custom software development becomes a basic human need like access to reliable internet: [[1]](https://x.com/karpathy/status/2024583544157458452)
 - **soon: hyper-entrepreneurial explosion!**: [[1]](https://highagency.com)
 - **open-sourcing yourself is a necessary act of digital self-actualization**: what does it mean to live an examined life in the age of the internet? [[1]](https://github.com/codyhxyz/codyhxyz/tree/main)
