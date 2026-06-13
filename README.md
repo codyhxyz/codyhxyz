@@ -8,7 +8,7 @@
 
 i believe the world could be made extraordinarily better.
 
-in attempting to realize that mission, i embody these core principles:
+in attempting to realize that vision, i embody these core principles:
 
 - **🔥 aliveness-maxxer**: aliveness >>> numbness
 - **☯︎ incentive-aligner**: *"show me the incentive, and I'll show you the outcome"* — Charlie Munger
