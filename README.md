@@ -6,12 +6,14 @@
 
 *some call me a [lemonaut](https://twitter.com/lemonautzest).*
 
-i embody these core principles:
+i believe the world could be made extraordinarily better.
+
+in attempting to realize that mission, i embody these core principles:
 
 - **🔥 aliveness-maxxer**: aliveness >>> numbness
 - **☯︎ incentive-aligner**: *"show me the incentive, and I'll show you the outcome"* — Charlie Munger
-- **🌐 open-sourced human**: information wants to be free. it also wants to be integrated. become part of the great collaborative experiment we call 'human civilization in the time of the internet' by open-sourcing yourself.
-- **🏘️ "your problem might just be everyone else's"** — [Pieter Levels, *MAKE: Bootstrapper's Handbook*](https://readmake.com/)
+- **🌐 open-sourced**: information wants to be free. it also wants to be integrated. become part of the great collaborative experiment we call 'human civilization in the time of the internet' by open-sourcing yourself.
+- **🏘️ **problem-solver**: become dedicated about solving your own problems, because "your problem might just be everyone else's" — [Pieter Levels, *MAKE: Bootstrapper's Handbook*](https://readmake.com/)
 
 ---
 
