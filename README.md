@@ -8,10 +8,9 @@
 
 I follow the following core design principles. The list is subject to change and definitely incomplete:
 
-- **🔥 design like your life depends on it, because it does**: half the world is designing for numbness; you've got to fight to keep your torch lit. 
 - **☯︎ "show me the incentive, and I'll show you the outcome"**: — Charlie Munger. Build incentive alignment architecture and you unlock the better world.
 - **🌐 information wants to be free**: — Stewart Brand. Build open-source. You have no idea how powerful of a contribution to humanity's global brain you can make this way. If you want your ideas to survive you, this is the way.
-- **🏘️ live in utopia, and build what's missing.**: systematically design scarcity out of your life and then share the solution, because "your problem might just be everyone else's" — [Pieter Levels, *MAKE: Bootstrapper's Handbook*](https://readmake.com/). 
+- **🏘️ live in utopia, and build what's missing.**: — my adaptation of Paul Graham's "live in the future and build what's missing". Systematically design scarcity out of your life and then share the solution, because "your problem might just be everyone else's" — [Pieter Levels, *MAKE: Bootstrapper's Handbook*](https://readmake.com/). 
 
 ---
 
