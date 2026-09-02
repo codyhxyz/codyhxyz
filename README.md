@@ -92,6 +92,7 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
 
 - **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: Nifty end-to-end scaffold for building, testing, & publishing Claude Code plugins.
 - **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: Nifty end-to-end scaffold for building, testing, & publishing Chrome extensions.
+- **[herdr-chrome-keys](https://github.com/codyhxyz/herdr-chrome-keys)**: Chrome-style keybindings for herdr (cmd for workspaces, ctrl for tabs, prefix for panes), plus the Ghostty profile that makes them work on macOS.
 - (in development) **create-github-repo**: Nifty end-to-end scaffold for publishing GitHub repos.
 - (in development) **create-mac-app**: Nifty end-to-end scaffold for building, testing, & publishing MacOS apps on the App Store.
 
