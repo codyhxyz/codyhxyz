@@ -27,6 +27,9 @@ _humans are augmenting themselves with bespoke software, to massive effect. ther
 
 ### ⚙️ my bespoke software
 _here are some tools I've built to solve some of my own problems. I'm sharing them below:_
+
+- **[pi-antigravity-hud](https://github.com/codyhxyz/pi-antigravity-hud)**: live color-coded 5-hour and weekly quota meters for Antigravity models in Pi.
+
 <details>
 <summary><strong><a href="https://github.com/codyhxyz/playlist-search-extension"><img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://github.com/user-attachments/assets/b0588941-61c1-48bc-8ca5-5c3754f27dca"/> YouTube Playlist Search</a></strong>: need to add videos to the right playlists</summary>
 
