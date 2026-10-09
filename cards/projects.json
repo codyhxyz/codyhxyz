@@ -12,7 +12,7 @@
           "status": "live",
           "size": "half",
           "shot": "skills.jpg",
-          "focus": "50% 45%",
+          "focus": "50% 50%",
           "theme": {
             "bg": "#17120a",
             "ink": "#f3e6c4",
@@ -63,7 +63,7 @@
           "status": "live",
           "size": "full",
           "shot": "playlist-search.jpg",
-          "focus": "100% 78%",
+          "focus": "50% 50%",
           "theme": {
             "bg": "#161616",
             "ink": "#f1f1f1",
