@@ -25,6 +25,19 @@ _humans are augmenting themselves with bespoke software, to massive effect. ther
   <a href="https://github.com/codyhxyz/skills"><img src="cards/png/skills.png" width="49%" alt="cody's skills: sharing my cognitive heuristics. the ways I talk to my computer."></a>
   <a href="https://github.com/codyhxyz/stack"><img src="cards/png/stack.png" width="49%" alt="cody's stack: awesome software i think more people should be aware of"></a>
 </p>
+<p><a href="https://github.com/codyhxyz/eureka"><img src="cards/png/eureka.png" width="100%" alt="eureka: a Claude Code subagent for when Claude is trying all the wrong things"></a></p>
+
+### 🧪 toys & experiments
+
+<p><a href="https://github.com/codyhxyz/Powder-Toy-3D"><img src="cards/png/powder-toy-3d.png" width="100%" alt="Powder Toy 3D: I wanted The Powder Toy in 3D: falling-sand physics on your GPU, live in the browser"></a></p>
+<p><a href="https://github.com/codyhxyz/filetofish"><img src="cards/png/filetofish.png" width="100%" alt="File to Fish: drop in any file. it comes back as a fish. same file, same fish, every time."></a></p>
+<p>
+  <a href="https://github.com/codyhxyz/infinite-liquid-glass"><img src="cards/png/infinite-liquid-glass.png" width="49%" alt="Infinite Liquid Glass: an infinite draggable grid of refractive glass tiles wrapped on a sphere"></a>
+  <a href="https://github.com/codyhxyz/lerping-at-home"><img src="cards/png/lerping-at-home.png" width="49%" alt="Lerping@Home: a native macOS Metal screensaver: 31 procedural shaders, 123 curated looks"></a>
+</p>
+<p><a href="https://github.com/codyhxyz/htmlincanvas-demo"><img src="cards/png/htmlincanvas.png" width="100%" alt="HTML in Canvas: 33 shader effects running over one real, interactive HTML page"></a></p>
+<p><a href="https://github.com/codyhxyz/granular"><img src="cards/png/granular.png" width="100%" alt="granular: GPU-native falling sand in Metal, for Apple Silicon"></a></p>
+<p><a href="https://github.com/codyhxyz/youtube-dj"><img src="cards/png/youtube-dj.png" width="100%" alt="YouTube DJ: a browser DJ for YouTube audio with local speed and pitch controls"></a></p>
 
 ### ⚙️ my bespoke software
 
@@ -56,6 +69,7 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
   <a href="https://github.com/codyhxyz/create-chrome-extension"><img src="cards/png/create-chrome-extension.png" width="49%" alt="create-chrome-extension: end-to-end scaffold for building, testing, &amp; publishing Chrome extensions"></a>
 </p>
 <p><a href="https://github.com/codyhxyz/herdr-chrome-keys"><img src="cards/png/herdr-chrome-keys.png" width="100%" alt="herdr-chrome-keys: Chrome-style keybindings for herdr, plus the Ghostty profile that makes them work on macOS"></a></p>
+<p><a href="https://github.com/codyhxyz/statusline"><img src="cards/png/statusline.png" width="100%" alt="statusline: I needed to catch context rot before /clear does: ring meters for context and rate limits"></a></p>
 <p><img src="cards/png/create-github-repo.png" width="100%" alt="create-github-repo: end-to-end scaffold for publishing GitHub repos"></p>
 <p><img src="cards/png/create-mac-app.png" width="100%" alt="create-mac-app: end-to-end scaffold for building, testing, &amp; publishing macOS apps on the App Store"></p>
 <!-- cards:end -->

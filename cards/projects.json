@@ -40,6 +40,130 @@
             "ink": "#1d2420",
             "acc": "#3f7a52"
           }
+        },
+        {
+          "id": "eureka",
+          "name": "eureka",
+          "line": "a Claude Code subagent for when Claude is trying all the wrong things",
+          "href": "https://github.com/codyhxyz/eureka",
+          "status": "live",
+          "size": "row",
+          "theme": {
+            "bg": "#fbf6ec",
+            "ink": "#1d1708",
+            "acc": "#e0a020"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "### 🧪 toys & experiments",
+      "projects": [
+        {
+          "id": "powder-toy-3d",
+          "name": "Powder Toy 3D",
+          "line": "I wanted The Powder Toy in 3D: falling-sand physics on your GPU, live in the browser",
+          "href": "https://github.com/codyhxyz/Powder-Toy-3D",
+          "site": "tpt3d.codyh.xyz",
+          "status": "live",
+          "size": "full",
+          "shot": "powder-toy-3d.jpg",
+          "focus": "50% 85%",
+          "theme": {
+            "bg": "#12161d",
+            "ink": "#eef1f5",
+            "acc": "#ff8a3d"
+          }
+        },
+        {
+          "id": "filetofish",
+          "name": "File to Fish",
+          "line": "drop in any file. it comes back as a fish. same file, same fish, every time.",
+          "href": "https://github.com/codyhxyz/filetofish",
+          "site": "filetofish.codyh.xyz",
+          "status": "live",
+          "size": "full",
+          "shot": "filetofish.jpg",
+          "focus": "50% 70%",
+          "theme": {
+            "bg": "#163a4c",
+            "ink": "#eaf3f6",
+            "acc": "#e0a96d"
+          }
+        },
+        {
+          "id": "infinite-liquid-glass",
+          "name": "Infinite Liquid Glass",
+          "line": "an infinite draggable grid of refractive glass tiles wrapped on a sphere",
+          "href": "https://github.com/codyhxyz/infinite-liquid-glass",
+          "site": "infiniteglass.codyh.xyz",
+          "status": "live",
+          "size": "half",
+          "shot": "infinite-liquid-glass.jpg",
+          "focus": "50% 40%",
+          "theme": {
+            "bg": "#0c1120",
+            "ink": "#eef1f8",
+            "acc": "#9fb8ff"
+          }
+        },
+        {
+          "id": "lerping-at-home",
+          "name": "Lerping@Home",
+          "line": "a native macOS Metal screensaver: 31 procedural shaders, 123 curated looks",
+          "href": "https://github.com/codyhxyz/lerping-at-home",
+          "status": "live",
+          "size": "half",
+          "shot": "lerping-at-home.jpg",
+          "focus": "50% 50%",
+          "theme": {
+            "bg": "#07090d",
+            "ink": "#eef0f4",
+            "acc": "#5fd1a0"
+          }
+        },
+        {
+          "id": "htmlincanvas",
+          "name": "HTML in Canvas",
+          "line": "33 shader effects running over one real, interactive HTML page",
+          "href": "https://github.com/codyhxyz/htmlincanvas-demo",
+          "site": "htmlincanvas.codyh.xyz",
+          "status": "live",
+          "size": "full",
+          "shot": "htmlincanvas.jpg",
+          "focus": "0% 0%",
+          "theme": {
+            "bg": "#0d0d0c",
+            "ink": "#efeee6",
+            "acc": "#d4f24a"
+          }
+        },
+        {
+          "id": "granular",
+          "name": "granular",
+          "line": "GPU-native falling sand in Metal, for Apple Silicon",
+          "href": "https://github.com/codyhxyz/granular",
+          "status": "live",
+          "size": "row",
+          "theme": {
+            "bg": "#141210",
+            "ink": "#efe6d6",
+            "acc": "#c99a4a"
+          }
+        },
+        {
+          "id": "youtube-dj",
+          "name": "YouTube DJ",
+          "line": "a browser DJ for YouTube audio with local speed and pitch controls",
+          "href": "https://github.com/codyhxyz/youtube-dj",
+          "site": "youtubedj.codyh.xyz",
+          "status": "live",
+          "size": "row",
+          "theme": {
+            "bg": "#f6f6f5",
+            "ink": "#111111",
+            "acc": "#444444"
+          }
         }
       ]
     },
@@ -246,6 +370,21 @@
             "bg": "#14161b",
             "ink": "#e6e8ee",
             "acc": "#7aa2ff"
+          }
+        },
+        {
+          "id": "statusline",
+          "name": "statusline",
+          "line": "I needed to catch context rot before /clear does: ring meters for context and rate limits",
+          "href": "https://github.com/codyhxyz/statusline",
+          "status": "live",
+          "size": "full",
+          "shot": "statusline.jpg",
+          "focus": "0% 50%",
+          "theme": {
+            "bg": "#1b1e26",
+            "ink": "#e8eaf0",
+            "acc": "#5ad35a"
           }
         },
         {
