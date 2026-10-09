@@ -44,7 +44,7 @@ function cardHTML(p) {
   const url = p.site || (p.href ? p.href.replace('https://', '') : 'in development');
   return `<div class="card ${p.size}" id="${esc(p.id)}" style="--bg:${bg};--ink:${ink};--acc:${acc}">
   <div class="shot">${visual}</div>
-  <div class="txt"><span class="tag">${p.status === 'dev' ? 'in development' : 'live'}</span><span class="name">${esc(p.name)}</span><span class="line">${esc(p.line)}</span><span class="url">${esc(url)}</span></div>
+  <div class="txt">${p.status === 'dev' ? '<span class="tag">in development</span>' : ''}<span class="name">${esc(p.name)}</span><span class="line">${esc(p.line)}</span><span class="url">${esc(url)}</span></div>
 </div>`;
 }
 

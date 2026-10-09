@@ -36,7 +36,7 @@ cards/
 ## fields
 
 - `size`: `full` (880×240) or `half` (430×240). Two halves in a row share a line.
-- `status`: `live` or `dev`. Only full cards show the tag.
+- `status`: `live` or `dev`. Full `dev` cards get an "in development" tag; live cards get none.
 - `href`: optional. Without it the card isn't a link (fine for unreleased things).
 - `site`: optional. Shown on full cards in place of the repo URL.
 - `shot`: optional. Without it you get a hatched placeholder with the first letter. `term: "…"` shows terminal output instead (for CLI tools), and `shelf: ["a", "b"]` shows a row of pills.
