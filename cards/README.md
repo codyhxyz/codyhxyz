@@ -37,7 +37,7 @@ cards/
 
 - `card`: set to `false` to list the project as a plain text bullet instead of a card (only `id`, `name`, `line`, `href` are used).
 - `size`: `full` (880×240), `half` (430×240), or `row` (880×56, a slim name + one-liner strip for projects with no image yet). Two halves in a row share a line.
-- `status`: `live` or `dev`. Full `dev` cards get an "in development" tag; live cards get none.
+- `status`: `live` or `dev`. Bookkeeping only; nothing is drawn on the card.
 - `href`: optional. Without it the card isn't a link (fine for unreleased things).
 - `site`: optional. Shown on full cards in place of the repo URL.
 - `shot`: optional. Use `size: "row"` when there's no image yet. `term: "…"` shows terminal output instead (for CLI tools), and `shelf: ["a", "b"]` shows a row of pills.

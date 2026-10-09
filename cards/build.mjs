@@ -44,7 +44,7 @@ function cardHTML(p) {
   const url = p.site || (p.href ? p.href.replace('https://', '') : '');
   return `<div class="card ${p.size}" id="${esc(p.id)}" style="--bg:${bg};--ink:${ink};--acc:${acc}">
   <div class="shot">${visual}</div>
-  <div class="txt">${p.status === 'dev' ? '<span class="tag">in development</span>' : ''}<span class="name">${esc(p.name)}</span><span class="line">${esc(p.line)}</span><span class="url">${esc(url)}</span></div>
+  <div class="txt"><span class="name">${esc(p.name)}</span><span class="line">${esc(p.line)}</span><span class="url">${esc(url)}</span></div>
 </div>`;
 }
 
@@ -71,7 +71,6 @@ body.solo .card:not(.on) { display: none; }
 .row .txt { left: 22px; right: 22px; top: 0; bottom: 0; display: flex; align-items: center; gap: 12px; }
 .row .name { font-size: 17px; white-space: nowrap; flex: none; }
 .row .line { font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1; min-width: 0; }
-.row .tag { order: 3; flex: none; font-size: 10.5px; }
 .row .url { display: none; }
 
 .shot { position: absolute; overflow: hidden; background: rgba(127,127,127,.12); box-shadow: 0 0 0 1px rgba(127,127,127,.25), 0 9px 26px rgba(0,0,0,.25); }
@@ -88,8 +87,6 @@ body.solo .card:not(.on) { display: none; }
 .shelf span { border: 1px solid currentColor; border-radius: 99px; padding: 3px 9px; opacity: .8; white-space: nowrap; }
 
 .txt { position: absolute; display: grid; align-content: start; min-width: 0; }
-.tag { font: 500 11px "Geist Mono", ui-monospace, monospace; text-transform: uppercase; letter-spacing: .1em; color: var(--acc); display: flex; align-items: center; gap: 7px; }
-.tag::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
 .name { font-weight: 650; letter-spacing: -.02em; line-height: 1.05; }
 .line { opacity: .72; line-height: 1.32; }
 .url { font: 400 10.5px "Geist Mono", ui-monospace, monospace; opacity: .5; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -100,7 +97,7 @@ body.solo .card:not(.on) { display: none; }
 .full .url { align-self: end; }
 
 .half .txt { left: 22px; right: 22px; bottom: 19px; gap: 4px; }
-.half .tag, .half .url { display: none; }
+.half .url { display: none; }
 .half .name { font-size: 21.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .half .line { font-size: 13.3px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 </style>
