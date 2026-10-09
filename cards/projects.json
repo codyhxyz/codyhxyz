@@ -57,7 +57,7 @@
         {
           "id": "playlist-search",
           "name": "YouTube Playlist Search",
-          "line": "need to add videos to the right playlists, past YouTube's 200 cap",
+          "line": "I needed to add videos to the right playlists, past YouTube's 200 cap",
           "href": "https://github.com/codyhxyz/playlist-search-extension",
           "site": "playlist.codyh.xyz",
           "status": "live",
@@ -73,7 +73,7 @@
         {
           "id": "webpage-summarizer",
           "name": "Webpage Summarizer",
-          "line": "need to quickly summarize only a chunk of the page's text",
+          "line": "I needed to quickly summarize only a chunk of the page's text",
           "href": "https://github.com/codyhxyz/webpage-summarizer",
           "status": "live",
           "size": "full",
@@ -88,7 +88,7 @@
         {
           "id": "spotify-notes",
           "name": "Spotify Notes",
-          "line": "need to take notes on music for DJ library curation",
+          "line": "I needed to take notes on music for DJ library curation",
           "href": "https://github.com/codyhxyz/spotify-notes",
           "site": "songnotes.codyh.xyz",
           "status": "live",
@@ -107,21 +107,9 @@
       "heading": "#### in development",
       "projects": [
         {
-          "id": "dark-mode-anywhere",
-          "name": "Dark Mode Anywhere",
-          "line": "need dark mode on every site. covers 100% of the web.",
-          "status": "dev",
-          "size": "full",
-          "theme": {
-            "bg": "#0b0e13",
-            "ink": "#e6ebf2",
-            "acc": "#8fb4ff"
-          }
-        },
-        {
           "id": "manic-spending-buddy",
           "name": "Manic Spending Buddy",
-          "line": "need to stop making frivolous Amazon purchases",
+          "line": "I needed to stop making frivolous Amazon purchases",
           "status": "dev",
           "size": "half",
           "shot": "manic-spending-buddy.jpg",
@@ -133,21 +121,9 @@
           }
         },
         {
-          "id": "nafa",
-          "name": "Not A Financial Advisor",
-          "line": "need to budget without paying $200/yr for YNAB",
-          "status": "dev",
-          "size": "half",
-          "theme": {
-            "bg": "#e8f1e9",
-            "ink": "#14301c",
-            "acc": "#2f7a46"
-          }
-        },
-        {
           "id": "flur",
           "name": "Flur",
-          "line": "need an affordable open-source are.na for my design taste",
+          "line": "I needed an affordable open-source are.na for my design taste",
           "status": "dev",
           "size": "half",
           "shot": "flur.jpg",
@@ -161,11 +137,11 @@
         {
           "id": "new-tab",
           "name": "Cody's New Tab",
-          "line": "need my tabs organized against ADHD",
+          "line": "I needed my tabs organized against ADHD",
           "status": "dev",
-          "size": "half",
+          "size": "full",
           "shot": "new-tab.jpg",
-          "focus": "10% 40%",
+          "focus": "15% 6%",
           "theme": {
             "bg": "#eef3fb",
             "ink": "#1b2a44",
@@ -173,11 +149,35 @@
           }
         },
         {
+          "id": "dark-mode-anywhere",
+          "name": "Dark Mode Anywhere",
+          "line": "I needed dark mode on every site. covers 100% of the web.",
+          "status": "dev",
+          "size": "row",
+          "theme": {
+            "bg": "#0b0e13",
+            "ink": "#e6ebf2",
+            "acc": "#8fb4ff"
+          }
+        },
+        {
+          "id": "nafa",
+          "name": "Not A Financial Advisor",
+          "line": "I needed to budget without paying $200/yr for YNAB",
+          "status": "dev",
+          "size": "row",
+          "theme": {
+            "bg": "#e8f1e9",
+            "ink": "#14301c",
+            "acc": "#2f7a46"
+          }
+        },
+        {
           "id": "notes-for-amazon-list",
           "name": "Notes for Amazon List",
-          "line": "need to remember why I saved that item",
+          "line": "I needed to remember why I saved that item",
           "status": "dev",
-          "size": "half",
+          "size": "row",
           "theme": {
             "bg": "#fdf3e4",
             "ink": "#2e2210",
@@ -187,9 +187,9 @@
         {
           "id": "amazon-list-search",
           "name": "Amazon List Search",
-          "line": "need to quickly add items to the right Amazon list",
+          "line": "I needed to quickly add items to the right Amazon list",
           "status": "dev",
-          "size": "half",
+          "size": "row",
           "theme": {
             "bg": "#eaf0f6",
             "ink": "#16222e",
@@ -251,7 +251,7 @@
           "name": "create-github-repo",
           "line": "end-to-end scaffold for publishing GitHub repos",
           "status": "dev",
-          "size": "half",
+          "size": "row",
           "theme": {
             "bg": "#f2f3f5",
             "ink": "#1b1f24",
@@ -263,7 +263,7 @@
           "name": "create-mac-app",
           "line": "end-to-end scaffold for building, testing, & publishing macOS apps on the App Store",
           "status": "dev",
-          "size": "half",
+          "size": "row",
           "theme": {
             "bg": "#eef0f8",
             "ink": "#1c2033",

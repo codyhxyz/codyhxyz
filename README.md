@@ -31,25 +31,21 @@ _humans are augmenting themselves with bespoke software, to massive effect. ther
 _here are some tools I've built to solve some of my own problems. I'm sharing them below:_
 
 - **[pi-antigravity-hud](https://github.com/codyhxyz/pi-antigravity-hud)**: live color-coded 5-hour and weekly quota meters for Antigravity models in Pi.
-<p><a href="https://github.com/codyhxyz/playlist-search-extension"><img src="cards/png/playlist-search.png" width="100%" alt="YouTube Playlist Search: need to add videos to the right playlists, past YouTube's 200 cap"></a></p>
-<p><a href="https://github.com/codyhxyz/webpage-summarizer"><img src="cards/png/webpage-summarizer.png" width="100%" alt="Webpage Summarizer: need to quickly summarize only a chunk of the page's text"></a></p>
-<p><a href="https://github.com/codyhxyz/spotify-notes"><img src="cards/png/spotify-notes.png" width="100%" alt="Spotify Notes: need to take notes on music for DJ library curation"></a></p>
+<p><a href="https://github.com/codyhxyz/playlist-search-extension"><img src="cards/png/playlist-search.png" width="100%" alt="YouTube Playlist Search: I needed to add videos to the right playlists, past YouTube's 200 cap"></a></p>
+<p><a href="https://github.com/codyhxyz/webpage-summarizer"><img src="cards/png/webpage-summarizer.png" width="100%" alt="Webpage Summarizer: I needed to quickly summarize only a chunk of the page's text"></a></p>
+<p><a href="https://github.com/codyhxyz/spotify-notes"><img src="cards/png/spotify-notes.png" width="100%" alt="Spotify Notes: I needed to take notes on music for DJ library curation"></a></p>
 
 #### in development
 
-<p><img src="cards/png/dark-mode-anywhere.png" width="100%" alt="Dark Mode Anywhere: need dark mode on every site. covers 100% of the web."></p>
 <p>
-  <img src="cards/png/manic-spending-buddy.png" width="49%" alt="Manic Spending Buddy: need to stop making frivolous Amazon purchases">
-  <img src="cards/png/nafa.png" width="49%" alt="Not A Financial Advisor: need to budget without paying $200/yr for YNAB">
+  <img src="cards/png/manic-spending-buddy.png" width="49%" alt="Manic Spending Buddy: I needed to stop making frivolous Amazon purchases">
+  <img src="cards/png/flur.png" width="49%" alt="Flur: I needed an affordable open-source are.na for my design taste">
 </p>
-<p>
-  <img src="cards/png/flur.png" width="49%" alt="Flur: need an affordable open-source are.na for my design taste">
-  <img src="cards/png/new-tab.png" width="49%" alt="Cody's New Tab: need my tabs organized against ADHD">
-</p>
-<p>
-  <img src="cards/png/notes-for-amazon-list.png" width="49%" alt="Notes for Amazon List: need to remember why I saved that item">
-  <img src="cards/png/amazon-list-search.png" width="49%" alt="Amazon List Search: need to quickly add items to the right Amazon list">
-</p>
+<p><img src="cards/png/new-tab.png" width="100%" alt="Cody's New Tab: I needed my tabs organized against ADHD"></p>
+<p><img src="cards/png/dark-mode-anywhere.png" width="100%" alt="Dark Mode Anywhere: I needed dark mode on every site. covers 100% of the web."></p>
+<p><img src="cards/png/nafa.png" width="100%" alt="Not A Financial Advisor: I needed to budget without paying $200/yr for YNAB"></p>
+<p><img src="cards/png/notes-for-amazon-list.png" width="100%" alt="Notes for Amazon List: I needed to remember why I saved that item"></p>
+<p><img src="cards/png/amazon-list-search.png" width="100%" alt="Amazon List Search: I needed to quickly add items to the right Amazon list"></p>
 
 ### 🚀 building your own bespoke software
 
@@ -60,10 +56,8 @@ _I've built pipelines that build pipelines. Here I'm sharing some tools I've bui
   <a href="https://github.com/codyhxyz/create-chrome-extension"><img src="cards/png/create-chrome-extension.png" width="49%" alt="create-chrome-extension: end-to-end scaffold for building, testing, &amp; publishing Chrome extensions"></a>
 </p>
 <p><a href="https://github.com/codyhxyz/herdr-chrome-keys"><img src="cards/png/herdr-chrome-keys.png" width="100%" alt="herdr-chrome-keys: Chrome-style keybindings for herdr, plus the Ghostty profile that makes them work on macOS"></a></p>
-<p>
-  <img src="cards/png/create-github-repo.png" width="49%" alt="create-github-repo: end-to-end scaffold for publishing GitHub repos">
-  <img src="cards/png/create-mac-app.png" width="49%" alt="create-mac-app: end-to-end scaffold for building, testing, &amp; publishing macOS apps on the App Store">
-</p>
+<p><img src="cards/png/create-github-repo.png" width="100%" alt="create-github-repo: end-to-end scaffold for publishing GitHub repos"></p>
+<p><img src="cards/png/create-mac-app.png" width="100%" alt="create-mac-app: end-to-end scaffold for building, testing, &amp; publishing macOS apps on the App Store"></p>
 <!-- cards:end -->
 
 ---

@@ -20,7 +20,7 @@ cards/
    {
      "id": "my-thing",
      "name": "My Thing",
-     "line": "need to … (one line, the problem it solves)",
+     "line": "I needed to … (one line, the problem it solves)",
      "href": "https://github.com/codyhxyz/my-thing",
      "site": "mything.codyh.xyz",
      "status": "live",
@@ -36,11 +36,11 @@ cards/
 ## fields
 
 - `card`: set to `false` to list the project as a plain text bullet instead of a card (only `id`, `name`, `line`, `href` are used).
-- `size`: `full` (880×240) or `half` (430×240). Two halves in a row share a line.
+- `size`: `full` (880×240), `half` (430×240), or `row` (880×56, a slim name + one-liner strip for projects with no image yet). Two halves in a row share a line.
 - `status`: `live` or `dev`. Full `dev` cards get an "in development" tag; live cards get none.
 - `href`: optional. Without it the card isn't a link (fine for unreleased things).
 - `site`: optional. Shown on full cards in place of the repo URL.
-- `shot`: optional. Without it you get a hatched placeholder with the first letter. `term: "…"` shows terminal output instead (for CLI tools), and `shelf: ["a", "b"]` shows a row of pills.
+- `shot`: optional. Use `size: "row"` when there's no image yet. `term: "…"` shows terminal output instead (for CLI tools), and `shelf: ["a", "b"]` shows a row of pills.
 - `focus`: CSS `object-position` for the crop. `100% 80%` = show the bottom-right of the screenshot.
 - `theme`: card background, text, and accent colors. Pick them from the screenshot.
 
