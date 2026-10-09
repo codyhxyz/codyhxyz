@@ -1,0 +1,283 @@
+{
+  "sections": [
+    {
+      "heading": "### 🧠 cognitive augmentation",
+      "note": "humans are augmenting themselves with bespoke software, to massive effect. there has never been a better time to learn how to do augment yourself, nor more to gain. here I'm sharing some of the tools I'm using to augment myself.",
+      "projects": [
+        {
+          "id": "skills",
+          "name": "cody's skills",
+          "line": "sharing my cognitive heuristics. the ways I talk to my computer.",
+          "href": "https://github.com/codyhxyz/skills",
+          "status": "live",
+          "size": "half",
+          "shot": "skills.jpg",
+          "focus": "50% 45%",
+          "theme": {
+            "bg": "#17120a",
+            "ink": "#f3e6c4",
+            "acc": "#d9a441"
+          }
+        },
+        {
+          "id": "stack",
+          "name": "cody's stack",
+          "line": "awesome software i think more people should be aware of",
+          "href": "https://github.com/codyhxyz/stack",
+          "status": "live",
+          "size": "half",
+          "shelf": [
+            "Raycast",
+            "Cap",
+            "Muesli",
+            "VTPlayer",
+            "Claude Code",
+            "DeepSeek V4",
+            "PyMuPDF"
+          ],
+          "theme": {
+            "bg": "#eef1ec",
+            "ink": "#1d2420",
+            "acc": "#3f7a52"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "### ⚙️ my bespoke software",
+      "note": "here are some tools I've built to solve some of my own problems. I'm sharing them below:",
+      "projects": [
+        {
+          "id": "pi-antigravity-hud",
+          "name": "pi-antigravity-hud",
+          "line": "live color-coded 5-hour and weekly quota meters for Antigravity models in Pi",
+          "href": "https://github.com/codyhxyz/pi-antigravity-hud",
+          "status": "live",
+          "size": "full",
+          "term": "⚡ Gemini 3.8 Flash  5H [██░░░░░░] 24.1% ↻3h 42m\n\n╭─ ⚡ ANTIGRAVITY · Gemini 3.8 Flash\n│  5 HOUR [███████░░░░░░░░░░░░░] 34.8% used  ↻ 3h 42m\n│  WEEKLY [██░░░░░░░░░░░░░░░░░░]  8.7% used  ↻ 5d 9h\n╰─ Google AI Pro · bars fill toward the limit",
+          "theme": {
+            "bg": "#101216",
+            "ink": "#e9e7e2",
+            "acc": "#f5a524"
+          }
+        },
+        {
+          "id": "playlist-search",
+          "name": "YouTube Playlist Search",
+          "line": "need to add videos to the right playlists, past YouTube's 200 cap",
+          "href": "https://github.com/codyhxyz/playlist-search-extension",
+          "site": "playlist.codyh.xyz",
+          "status": "live",
+          "size": "full",
+          "shot": "playlist-search.jpg",
+          "focus": "100% 78%",
+          "theme": {
+            "bg": "#161616",
+            "ink": "#f1f1f1",
+            "acc": "#ff5a4f"
+          }
+        },
+        {
+          "id": "webpage-summarizer",
+          "name": "Webpage Summarizer",
+          "line": "need to quickly summarize only a chunk of the page's text",
+          "href": "https://github.com/codyhxyz/webpage-summarizer",
+          "status": "live",
+          "size": "full",
+          "shot": "webpage-summarizer.jpg",
+          "focus": "60% 52%",
+          "theme": {
+            "bg": "#f4f4f2",
+            "ink": "#151515",
+            "acc": "#b38a00"
+          }
+        },
+        {
+          "id": "spotify-notes",
+          "name": "Spotify Notes",
+          "line": "need to take notes on music for DJ library curation",
+          "href": "https://github.com/codyhxyz/spotify-notes",
+          "site": "songnotes.codyh.xyz",
+          "status": "live",
+          "size": "full",
+          "shot": "spotify-notes.jpg",
+          "focus": "12% 48%",
+          "theme": {
+            "bg": "#1f0d18",
+            "ink": "#f4dcc4",
+            "acc": "#e48a4a"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "#### in development",
+      "projects": [
+        {
+          "id": "dark-mode-anywhere",
+          "name": "Dark Mode Anywhere",
+          "line": "need dark mode on every site. covers 100% of the web.",
+          "status": "dev",
+          "size": "full",
+          "theme": {
+            "bg": "#0b0e13",
+            "ink": "#e6ebf2",
+            "acc": "#8fb4ff"
+          }
+        },
+        {
+          "id": "manic-spending-buddy",
+          "name": "Manic Spending Buddy",
+          "line": "need to stop making frivolous Amazon purchases",
+          "status": "dev",
+          "size": "half",
+          "shot": "manic-spending-buddy.jpg",
+          "focus": "0% 20%",
+          "theme": {
+            "bg": "#fbf5e6",
+            "ink": "#3b2e12",
+            "acc": "#8a6a1c"
+          }
+        },
+        {
+          "id": "nafa",
+          "name": "Not A Financial Advisor",
+          "line": "need to budget without paying $200/yr for YNAB",
+          "status": "dev",
+          "size": "half",
+          "theme": {
+            "bg": "#e8f1e9",
+            "ink": "#14301c",
+            "acc": "#2f7a46"
+          }
+        },
+        {
+          "id": "flur",
+          "name": "Flur",
+          "line": "need an affordable open-source are.na for my design taste",
+          "status": "dev",
+          "size": "half",
+          "shot": "flur.jpg",
+          "focus": "50% 30%",
+          "theme": {
+            "bg": "#0d0d0d",
+            "ink": "#eeeeee",
+            "acc": "#c9c9c9"
+          }
+        },
+        {
+          "id": "new-tab",
+          "name": "Cody's New Tab",
+          "line": "need my tabs organized against ADHD",
+          "status": "dev",
+          "size": "half",
+          "shot": "new-tab.jpg",
+          "focus": "10% 40%",
+          "theme": {
+            "bg": "#eef3fb",
+            "ink": "#1b2a44",
+            "acc": "#4a78d0"
+          }
+        },
+        {
+          "id": "notes-for-amazon-list",
+          "name": "Notes for Amazon List",
+          "line": "need to remember why I saved that item",
+          "status": "dev",
+          "size": "half",
+          "theme": {
+            "bg": "#fdf3e4",
+            "ink": "#2e2210",
+            "acc": "#c46a12"
+          }
+        },
+        {
+          "id": "amazon-list-search",
+          "name": "Amazon List Search",
+          "line": "need to quickly add items to the right Amazon list",
+          "status": "dev",
+          "size": "half",
+          "theme": {
+            "bg": "#eaf0f6",
+            "ink": "#16222e",
+            "acc": "#2f6fa8"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "### 🚀 building your own bespoke software",
+      "note": "I've built pipelines that build pipelines. Here I'm sharing some tools I've built to remove frustrating obstacles I've encountered to building (& sharing) things:",
+      "projects": [
+        {
+          "id": "create-claude-plugin",
+          "name": "create-claude-plugin",
+          "line": "end-to-end scaffold for building, testing, & publishing Claude Code plugins",
+          "href": "https://github.com/codyhxyz/create-claude-plugin",
+          "status": "live",
+          "size": "half",
+          "shot": "create-claude-plugin.jpg",
+          "focus": "0% 62%",
+          "theme": {
+            "bg": "#ffffff",
+            "ink": "#111111",
+            "acc": "#d97706"
+          }
+        },
+        {
+          "id": "create-chrome-extension",
+          "name": "create-chrome-extension",
+          "line": "end-to-end scaffold for building, testing, & publishing Chrome extensions",
+          "href": "https://github.com/codyhxyz/create-chrome-extension",
+          "status": "live",
+          "size": "half",
+          "shot": "create-chrome-extension.jpg",
+          "focus": "0% 50%",
+          "theme": {
+            "bg": "#0b1220",
+            "ink": "#e8eef6",
+            "acc": "#3fb950"
+          }
+        },
+        {
+          "id": "herdr-chrome-keys",
+          "name": "herdr-chrome-keys",
+          "line": "Chrome-style keybindings for herdr, plus the Ghostty profile that makes them work on macOS",
+          "href": "https://github.com/codyhxyz/herdr-chrome-keys",
+          "status": "live",
+          "size": "full",
+          "term": "cmd     →  workspace   one per project\nctrl    →  tab         inside a workspace\nprefix  →  pane        splits inside a tab",
+          "theme": {
+            "bg": "#14161b",
+            "ink": "#e6e8ee",
+            "acc": "#7aa2ff"
+          }
+        },
+        {
+          "id": "create-github-repo",
+          "name": "create-github-repo",
+          "line": "end-to-end scaffold for publishing GitHub repos",
+          "status": "dev",
+          "size": "half",
+          "theme": {
+            "bg": "#f2f3f5",
+            "ink": "#1b1f24",
+            "acc": "#57606a"
+          }
+        },
+        {
+          "id": "create-mac-app",
+          "name": "create-mac-app",
+          "line": "end-to-end scaffold for building, testing, & publishing macOS apps on the App Store",
+          "status": "dev",
+          "size": "half",
+          "theme": {
+            "bg": "#eef0f8",
+            "ink": "#1c2033",
+            "acc": "#5b6ee1"
+          }
+        }
+      ]
+    }
+  ]
+}
