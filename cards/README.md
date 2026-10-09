@@ -8,6 +8,7 @@ cards/
   shots/          source screenshots (any size; they're cropped to fit)
   fonts/          Geist, vendored so renders match on every machine
   png/            baked cards (2x). the README points here. don't hand-edit.
+  og/             1280x640 social previews (node cards/build.mjs --og), uploaded in each repo's Settings → Social preview
   build.mjs       renders png/ and rewrites the README block
 ```
 
@@ -47,5 +48,6 @@ cards/
 ## tips
 
 - `node cards/build.mjs --preview` writes `.render.html`. Open it to see every card at once while tuning `focus` and colors.
+- `node cards/build.mjs --og` also renders `og/<id>.png` for every non-row card. If the project's website has its own og:image, prefer that.
 - Needs Google Chrome. Set `CHROME=/path/to/chrome` if it isn't in `/Applications`.
 - The README block between the `cards:start` / `cards:end` markers is overwritten on every build. Edit headings and notes in `projects.json`.

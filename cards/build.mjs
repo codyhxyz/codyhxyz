@@ -5,6 +5,7 @@
 //   node cards/build.mjs            render all cards + update README
 //   node cards/build.mjs flur nafa  render only these cards + update README
 //   node cards/build.mjs --preview  write .render.html only (open it to see every card)
+//   node cards/build.mjs --og       also render og/<id>.png (1280x640) to upload as each repo's social preview
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { dirname, join, relative } from 'node:path';
@@ -22,6 +23,7 @@ const { sections } = JSON.parse(readFileSync(join(DIR, 'projects.json'), 'utf8')
 const projects = sections.flatMap(s => s.projects).filter(p => p.card !== false);
 const args = process.argv.slice(2);
 const previewOnly = args.includes('--preview');
+const og = args.includes('--og');
 const only = args.filter(a => !a.startsWith('--'));
 
 for (const id of only) if (!projects.some(p => p.id === id)) throw new Error(`no project with id "${id}"`);
@@ -100,12 +102,23 @@ body.solo .card:not(.on) { display: none; }
 .half .url { display: none; }
 .half .name { font-size: 21.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .half .line { font-size: 13.3px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* social preview: 640x320 (1280x640 at 2x), shot on top, name + line below */
+.card.og { width: 640px; height: 320px; }
+.og .shot { left: 28px; top: 28px; right: 0; height: 178px; border-radius: 10px 0 0 10px; }
+.og .txt { left: 28px; right: 28px; bottom: 22px; gap: 6px; }
+.og .url { display: none; }
+.og .name { font-size: 29px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.og .line { font-size: 16px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.og .term { font-size: 13px; }
 </style>
 <body>
 ${projects.map(cardHTML).join('\n')}
 <script>
 const id = decodeURIComponent(location.hash.slice(1));
-if (id) { document.body.classList.add('solo'); document.getElementById(id)?.classList.add('on'); }
+const el = id && document.getElementById(id);
+if (el) { document.body.classList.add('solo'); el.classList.add('on'); }
+if (el && location.search === '?og') el.className = 'card og on';
 </script>
 </body>`;
 writeFileSync(RENDER, page);
@@ -122,6 +135,15 @@ for (const p of projects) {
     `--screenshot=${out}`, `${pathToFileURL(RENDER).href}#${encodeURIComponent(p.id)}`,
   ], { stdio: 'ignore' });
   console.log(`rendered ${relative(process.cwd(), out)}`);
+  if (og && p.size !== 'row') {
+    const ogOut = join(DIR, 'og', `${p.id}.png`);
+    execFileSync(CHROME, [
+      '--headless=new', '--disable-gpu', '--hide-scrollbars', '--force-device-scale-factor=2',
+      '--window-size=640,320', '--virtual-time-budget=3000',
+      `--screenshot=${ogOut}`, `${pathToFileURL(RENDER).href}?og#${encodeURIComponent(p.id)}`,
+    ], { stdio: 'ignore' });
+    console.log(`rendered ${relative(process.cwd(), ogOut)}`);
+  }
 }
 
 // README block: consecutive half cards pair up on one row
