@@ -153,12 +153,14 @@
           "name": "Dark Mode Anywhere",
           "line": "I needed dark mode on every site. covers 100% of the web.",
           "status": "dev",
-          "size": "row",
+          "size": "full",
           "theme": {
             "bg": "#0b0e13",
             "ink": "#e6ebf2",
             "acc": "#8fb4ff"
-          }
+          },
+          "shot": "dark-mode-anywhere.jpg",
+          "focus": "40% 42%"
         },
         {
           "id": "nafa",
