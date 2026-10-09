@@ -30,7 +30,7 @@ _humans are augmenting themselves with bespoke software, to massive effect. ther
 
 _here are some tools I've built to solve some of my own problems. I'm sharing them below:_
 
-<p><a href="https://github.com/codyhxyz/pi-antigravity-hud"><img src="cards/png/pi-antigravity-hud.png" width="100%" alt="pi-antigravity-hud: live color-coded 5-hour and weekly quota meters for Antigravity models in Pi"></a></p>
+- **[pi-antigravity-hud](https://github.com/codyhxyz/pi-antigravity-hud)**: live color-coded 5-hour and weekly quota meters for Antigravity models in Pi.
 <p><a href="https://github.com/codyhxyz/playlist-search-extension"><img src="cards/png/playlist-search.png" width="100%" alt="YouTube Playlist Search: need to add videos to the right playlists, past YouTube's 200 cap"></a></p>
 <p><a href="https://github.com/codyhxyz/webpage-summarizer"><img src="cards/png/webpage-summarizer.png" width="100%" alt="Webpage Summarizer: need to quickly summarize only a chunk of the page's text"></a></p>
 <p><a href="https://github.com/codyhxyz/spotify-notes"><img src="cards/png/spotify-notes.png" width="100%" alt="Spotify Notes: need to take notes on music for DJ library curation"></a></p>

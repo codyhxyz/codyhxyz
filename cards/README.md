@@ -35,6 +35,7 @@ cards/
 
 ## fields
 
+- `card`: set to `false` to list the project as a plain text bullet instead of a card (only `id`, `name`, `line`, `href` are used).
 - `size`: `full` (880×240) or `half` (430×240). Two halves in a row share a line.
 - `status`: `live` or `dev`. Full `dev` cards get an "in development" tag; live cards get none.
 - `href`: optional. Without it the card isn't a link (fine for unreleased things).

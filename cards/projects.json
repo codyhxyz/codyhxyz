@@ -50,16 +50,9 @@
         {
           "id": "pi-antigravity-hud",
           "name": "pi-antigravity-hud",
-          "line": "live color-coded 5-hour and weekly quota meters for Antigravity models in Pi",
+          "line": "live color-coded 5-hour and weekly quota meters for Antigravity models in Pi.",
           "href": "https://github.com/codyhxyz/pi-antigravity-hud",
-          "status": "live",
-          "size": "full",
-          "term": "⚡ Gemini 3.8 Flash  5H [██░░░░░░] 24.1% ↻3h 42m\n\n╭─ ⚡ ANTIGRAVITY · Gemini 3.8 Flash\n│  5 HOUR [███████░░░░░░░░░░░░░] 34.8% used  ↻ 3h 42m\n│  WEEKLY [██░░░░░░░░░░░░░░░░░░]  8.7% used  ↻ 5d 9h\n╰─ Google AI Pro · bars fill toward the limit",
-          "theme": {
-            "bg": "#101216",
-            "ink": "#e9e7e2",
-            "acc": "#f5a524"
-          }
+          "card": false
         },
         {
           "id": "playlist-search",
