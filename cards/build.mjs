@@ -83,7 +83,7 @@ body.solo .card:not(.on) { display: none; }
 .ph { position: absolute; inset: 0; display: grid; place-items: center; background: repeating-linear-gradient(135deg, transparent 0 10px, rgba(127,127,127,.13) 10px 11px); }
 .ph span { font-weight: 700; font-size: 120px; letter-spacing: -.04em; color: var(--acc); opacity: .35; }
 .half .ph span { font-size: 80px; }
-.term { position: absolute; inset: 0; margin: 0; padding: 22px 26px; background: rgba(0,0,0,.28); color: var(--ink); font: 12.5px/1.55 "SF Mono", Menlo, ui-monospace, monospace; white-space: pre; overflow: hidden; }
+.term { position: absolute; inset: 0; margin: 0; padding: 22px 26px; background: rgba(0,0,0,.28); color: var(--ink); font: 12.5px/1.55 "SF Mono", Menlo, "Geist Mono", ui-monospace, monospace; white-space: pre; overflow: hidden; }
 .half .term { font-size: 10px; padding: 14px 16px; }
 .shelf { position: absolute; inset: 0; display: flex; flex-wrap: wrap; align-content: center; gap: 7px; padding: 14px 18px; font: 500 11px "Geist Mono", ui-monospace, monospace; }
 .shelf span { border: 1px solid currentColor; border-radius: 99px; padding: 3px 9px; opacity: .8; white-space: nowrap; }
@@ -103,9 +103,12 @@ body.solo .card:not(.on) { display: none; }
 .half .name { font-size: 21.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .half .line { font-size: 13.3px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 
-/* social preview: 640x320 (1280x640 at 2x), shot on top, name + line below */
-.card.og { width: 640px; height: 320px; }
-.og .shot { left: 28px; top: 28px; right: 0; height: 178px; border-radius: 10px 0 0 10px; }
+/* social preview: 640x320 (1280x640 at 2x), shot on top, name + line below.
+   square and ringless: GitHub and every link unfurl draw their own rounded frame,
+   and most shots carry their own edge, so a ring here makes a frame inside a frame */
+.card.og { width: 640px; height: 320px; border-radius: 0; }
+.card.og::after { display: none; }
+.og .shot { left: 28px; top: 28px; right: 0; height: 178px; border-radius: 10px 0 0 10px; box-shadow: none; }
 .og .txt { left: 28px; right: 28px; bottom: 22px; gap: 6px; }
 .og .url { display: none; }
 .og .name { font-size: 29px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
