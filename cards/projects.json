@@ -179,6 +179,21 @@
           "card": false
         },
         {
+          "id": "logseq-inline",
+          "name": "Logseq Inline",
+          "line": "I wanted to follow linked notes without losing my place: nested, editable pages inline",
+          "href": "https://github.com/codyhxyz/logseq/tree/feat/inline-expansions",
+          "status": "live",
+          "size": "full",
+          "shot": "logseq-inline.jpg",
+          "focus": "50% 0%",
+          "theme": {
+            "bg": "#edf4f8",
+            "ink": "#18354a",
+            "acc": "#226c9c"
+          }
+        },
+        {
           "id": "playlist-search",
           "name": "YouTube Playlist Search",
           "line": "I needed to add videos to the right playlists, past YouTube's 200 cap",
